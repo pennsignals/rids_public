@@ -17,7 +17,7 @@ Our framework consists of two microservices that run on batches of data
 
 Modularizing these services allows us to control these components independently, extracting and processing the minimal amount of data required.
 
-\[Insert overview diagram here\]
+![Overview diagram](_images/01_overview.png)
 
 ## Predict
 The scheduler runs the Predict job every 15 minutes.
@@ -65,7 +65,7 @@ If the patient is deemed eligible for the candidate cohort, the job does the fol
 *output.py*
 - Stores the full predicted batch with its notification filters
 
-\[Insert overview UML diagram here\]
+![Overview UML diagram](_images/02_UML.png)
 
 ## Caveats in current implementation
 - Randomization was built but turned off (commented out)
@@ -93,4 +93,4 @@ If the patient is deemed eligible for the candidate cohort, the job does the fol
 - local/orders_map.tsv
 
 ## Domain model
-\[Insert domain model diagram here\]
+![Domain model diagram](_images/03_domainModel.png)
