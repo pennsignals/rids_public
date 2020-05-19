@@ -40,7 +40,7 @@ The model script does the following:
 *output.py*
 - Stores all the predictions as a batch (MongoDB, see Domain Model)
 
-#### Notify
+## Notify
 
 The scheduler runs the Notify job at double the timing of the Predict job (i.e. every 8 minutes)
 
