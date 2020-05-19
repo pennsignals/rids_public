@@ -19,7 +19,7 @@ Modularizing these services allows us to control these components independently,
 
 \[Insert overview diagram here\]
 
-#### Predict
+## Predict
 The scheduler runs the Predict job every 15 minutes.
 
 *inputs.py*
@@ -67,12 +67,12 @@ If the patient is deemed eligible for the candidate cohort, the job does the fol
 
 \[Insert overview UML diagram here\]
 
-#### Caveats in current implementation
+## Caveats in current implementation
 - Randomization was built but turned off (commented out)
 - Twilio was built and set up but turned off (commented out)
 - The “now” timestamp parameter is used to “rewind” and run scenarios as if in the past. It is built but has not been fully tested.
 
-#### Reference files
+## Reference files
 **SNOMED-related files**
 - local/brands_and_generic.csv
     - Brand names mapped to SNOMED concept IDs of generic drugs
@@ -92,5 +92,5 @@ If the patient is deemed eligible for the candidate cohort, the job does the fol
 - local/vitals_map.tsv
 - local/orders_map.tsv
 
-#### Domain model
+## Domain model
 \[Insert domain model diagram here\]
