@@ -1,0 +1,73 @@
+NORMALIZED_STRING	ORIGINAL_STRING	IDENTIFIER	SOURCE_CODE
+BP mean	R OR POSTOP NONINVASIVE BP MEAN	449017	EPIC
+BP mean	EVS bp noninvasive mean NU	EVS bp noninvasive mean NU	PS
+BP mean	EVS bp arterial mean NU	EVS bp arterial mean NU	PS
+BP, Diastolic	BLOOD PRESSURE	450022_DBP	EPIC
+BP, Diastolic	BP Noninvasive Diastolic (mm Hg)	1144862534	SCM
+BP, Diastolic	DIASTOLIC BLOOD PRESSURE	1400	EMTRAC
+BP, Diastolic	EVS bp noninvasive diastolic NU	EVS bp noninvasive diastolic NU	PS
+BP, Diastolic	EVS bp arterial diastolic NU 1CD2	EVS bp arterial diastolic NU 1CD2	PS
+BP, Systolic	BLOOD PRESSURE	450022_SBP	EPIC
+BP, Systolic	BP Noninvasive Systolic (mm Hg)	1144861543	SCM
+BP, Systolic	SYSTOLIC BLOOD PRESSURE	1410	EMTRAC
+BP, Systolic	EVS bp noninvasive systolic NU	EVS bp noninvasive systolic NU	PS
+BP, Systolic	EVS bp arterial systolic NU 89F8	EVS bp arterial systolic NU 89F8	PS
+CAM	Overall CAM-ICU score based on above assessment	1144862537	SCM
+CAM	CAM Score	1144861544	SCM
+CAM	AS CAM ICU overall score	AS CAM ICU overall score	PS
+End Tidal CO2	R OR POSTOP END-TIDAL CO2	446017	EPIC
+End Tidal CO2	END-TIDAL CO2	1660	EMTRAC
+End Tidal CO2	AS penn tidal vol actual NU	AS penn tidal vol actual NU	PS
+Fraction of Inspired Oxygen	FiO2 (%)	1144863532	SCM
+Fraction of Inspired Oxygen	EVS o2 fio2 NU 0D4B	EVS o2 fio2 NU 0D4B	PS
+Glasgow Coma Scale Score	R CPN GLASGOW COMA SCALE SCORE	447022	EPIC
+Glasgow Coma Scale Score	GCS Score	1144864000	SCM
+Glasgow Coma Scale Score	Basic Neuro: GCS	1144864010	SCM
+Glasgow Coma Scale Score	SUM OF GLASCOW COMA SCALE FOR EYES, MOTOR AND SPEECH	1540	EMTRAC
+Glasgow Coma Scale Score	EVSC glasgow score CAL 9313	EVSC glasgow score CAL 9313	PS
+Glasgow Coma Scale Score-Eye	R CPN GLASGOW COMA SCALE EYE OPENING	450019	EPIC
+Glasgow Coma Scale Score-Eye	GLASCOW COMA SCALE EYE RESPONSE	1510	EMTRAC
+Glasgow Coma Scale Score-Eye	EVS glasgow eye 1B48	EVS glasgow eye 1B48	PS
+Glasgow Coma Scale Score-Motor	R CPN GLASGOW COMA SCALE BEST MOTOR RESPONSE	448019	EPIC
+Glasgow Coma Scale Score-Motor	GLASCOW COMA SCALE MOTOR RESPONSE	1520	EMTRAC
+Glasgow Coma Scale Score-Motor	EVSC glasgow motor 7F41	EVSC glasgow motor 7F41	PS
+Glasgow Coma Scale Score-Verbal	R CPN GLASGOW COMA SCALE BEST VERBAL RESPONSE	449021	EPIC
+Glasgow Coma Scale Score-Verbal	GLASCOW COMA SCALE VERBAL RESPONSE	1530	EMTRAC
+Glasgow Coma Scale Score-Verbal	EVSC glasgow verbal 5A34	EVSC glasgow verbal 5A34	PS
+Glucose Level	GLUCOSE LEVEL	1500	EMTRAC
+Heart Rate	PULSE	449022	EPIC
+Heart Rate	Heart Rate (beats/min)	1144863534	SCM
+Heart Rate	R OR HEART RATE	450017	EPIC
+Heart Rate	HEART RATE	1430	EMTRAC
+Heart Rate	EVS hr heart rate NU EE0A	EVS hr heart rate NU EE0A	PS
+Heart Rate	EVS hr heart rate NU	EVS hr heart rate NU	PS
+Height	EVS height NU	EVS height NU	PS
+Mean Arterial Pressure	MEAN ARTERIAL PRESSURE	1670	EMTRAC
+Oxygen Device	EVS o2 device 7B8C	EVS o2 device 7B8C	PS
+Oxygen Flow Rate	OXYGEN FLOW RATE	1420	EMTRAC
+Oxygen Flow Rate	R OXYGEN FLOW RATE	446019	EPIC
+Oxygen Flow Rate	EVS o2 flow liters per min NU 477B	EVS o2 flow liters per min NU 477B	PS
+Oxygen Saturation	PULSE OXIMETRY	447017	EPIC
+Oxygen Saturation	SpO2 (%)	1144862532	SCM
+Oxygen Saturation	OXYGEN SATURATION IN BLOOD	1450	EMTRAC
+Oxygen Saturation	EVS spo2 NU 7913	EVS spo2 NU 7913	PS
+Pain	R UPHS IP ED PAIN SCORE	446021	EPIC
+Pain	PAIN LEVEL	1460	EMTRAC
+Pain	EVS pain rating	EVS pain rating	PS
+RASS	Richmond Agitation-Sedation Scale (RASS), ICU, UPHS	1144861546	SCM
+RASS	RICHMOND AGITATION-SEDATION SCALE	1630	EMTRAC
+RASS	Richmond Agitation-Sedation Scale (RASS) Total	1144863531	SCM
+RASS	AS icu rass scale uphs	AS icu rass scale uphs	PS
+RR	RESPIRATIONS	447023	EPIC
+RR	Respirations (breaths/min)	1144861534	SCM
+RR	RESPIRATORY RATE	1470	EMTRAC
+RR	Respirations (breaths/min)	1144861535	SCM
+RR	EVS resp rate NU	EVS resp rate NU	PS
+Temp	TEMPERATURE	448022	EPIC
+Temp	Temperature (degrees F)	1144863535	SCM
+Temp	TEMPERATURE	1490	EMTRAC
+Temp	EVS temp fahrenheit CAL	EVS temp fahrenheit CAL	PS
+Urine Output	EIO out urine total NU	EIO out urine total NU	PS
+Weight	System Weight for medical calculation (kg)	1144864020	SCM
+Weight	KBC Daily weight to trend a patient's weight gain or loss (kg)	1144864030	SCM
+Weight	EVS weight kg CAL F121	EVS weight kg CAL F121	PS

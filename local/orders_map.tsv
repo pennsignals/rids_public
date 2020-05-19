@@ -1,0 +1,1268 @@
+NORMALIZED_STRING	ORIGINAL_STRING	IDENTIFIER	SOURCE_CODE
+% Atypical Lymphocyte	C % ATYPICAL LYMPHOCYTES (MANUAL)	164400	EPIC
+% Band	C % BAND NEUTROPHILS (MANUAL)	159618	EPIC
+% Band	Bands %	227033	SCM
+% Basophil	% Basophil Automated	4858135	CERNER
+% Basophil	C % BASOPHILS	164877	EPIC
+% Basophil	Basophils % Results HUP/PMC	228316	SCM
+% Basophil	Basophil % PAH Results	227533	SCM
+% Basophil	C % BASOPHILS (MANUAL)	159620	EPIC
+% Basophil	% BASOPHILS	168695	DMEE
+% Basophil	Basophil Auto	AUTODIF_Basophil Auto	PS
+% Eosinophil	% Eosinophil Automated	4858415	CERNER
+% Eosinophil	C % EOSINOPHILS	171085	EPIC
+% Eosinophil	Eosinophils % Result HUP/PMC	226284	SCM
+% Eosinophil	Eosinophil % PAH Results	226566	SCM
+% Eosinophil	C % EOSINOPHILS (MANUAL)	164403	EPIC
+% Eosinophil	% EOSINOPHILS	165641	DMEE
+% Eosinophil	Eos Auto	AUTODIF_Eos Auto	PS
+% Lymphocyte	% Lymphocyte Automated	4857700	CERNER
+% Lymphocyte	C % LYMPHOCYTES	170743	EPIC
+% Lymphocyte	Lymph % Result HUP/PMC	226093	SCM
+% Lymphocyte	Lymph % PAH Results ,	227598	SCM
+% Lymphocyte	C % LYMPHOCYTES (MANUAL)	170926	EPIC
+% Lymphocyte	% LYMPHOCYTES	162016	DMEE
+% Lymphocyte	% LYMPHS	165749	DMEE
+% Lymphocyte	Lymph Auto	AUTODIF_Lymph Auto	PS
+% Lymphocyte	Lymph BF	BF Diff_Lymph BF	PS
+% Lymphocyte	Lymph BF	BF DIFF_Lymph BF	PS
+% Monocyte	% Monocyte Automated	4855737	CERNER
+% Monocyte	C % MONOCYTES	163851	EPIC
+% Monocyte	Monocytes %  Results HUP/PMC	227088	SCM
+% Monocyte	Mono % PAH Result	228608	SCM
+% Monocyte	C % MONOCYTES (MANUAL)	170927	EPIC
+% Monocyte	Mono Auto	AUTODIF_Mono Auto	PS
+% Neutrophil	% Neutrophil Automated	4860769	CERNER
+% Neutrophil	C % NEUTROPHILS	159435	EPIC
+% Neutrophil	Neutrophils % Result HUP/PMC	228228	SCM
+% Neutrophil	Neutrophil % PAH Result	228617	SCM
+% Neutrophil	Neutro Auto	AUTODIF_Neutro Auto	PS
+% Neutrophil	Segs Man	M-DIFF_Segs Man	PS
+% Nucleated RBC	C % NUCLEATED RBC	170504	EPIC
+% Segmented Neutrophil	C % SEGMENTED NEUTROPHILS (MANUAL)	170925	EPIC
+% Segmented Neutrophil	Segs %	227011	SCM
+% Segmented Neutrophil	% SEGS	162061	DMEE
+ABG Hematocrit	ABG Hematocrit	4862039	CERNER
+ABG Hematocrit	C HCT (ABG)	6934003	EPIC
+ABG Hematocrit	ABG Hct	_Abg/Lytes Rals Venous_ABG Hct	PS
+ABG Hematocrit	ABG Hct	_ABG/Lytes Rals PAH_ABG Hct	PS
+ABG Hematocrit	ABG Hct	COOX RALS PAH_ABG Hct	PS
+ABG Hemoglobin	ABG Hemoglobin	4858039	CERNER
+ABG Hemoglobin	C HGB (ABG)	6936005	EPIC
+ABG Hemoglobin	ABG Hgb	_Abg/Lytes Rals Venous_ABG Hgb	PS
+ABG Hemoglobin	ABG Hgb	_ABG/Lytes Rals PAH_ABG Hgb	PS
+ABG Hemoglobin	ABG Hgb	COOX RALS PAH_ABG Hgb	PS
+ABG pH	pH, ABG Venous PAH	239104	SCM
+ABG Potassium	ABG Potassium	4857039	CERNER
+ABG Potassium	C POTASSIUM (ABG)	6937004	EPIC
+ABG Potassium	ABG K	_Abg/Lytes Rals Venous_ABG K	PS
+ABG Potassium	ABG K	_ABG/Lytes Rals PAH_ABG K	PS
+ABG Sodium	ABG Sodium	4860040	CERNER
+ABG Sodium	C SODIUM (ABG)	6931003	EPIC
+ABG Sodium	ABG Na	_Abg/Lytes Rals Venous_ABG Na	PS
+ABG Sodium	ABG Na	_ABG/Lytes Rals PAH_ABG Na	PS
+ABO Rh Interpretation	ABO RH INTERPRETATIO	164493	EPIC
+ABO Rh Interpretation	ABO Rh Interpretation	227016	SCM
+ABO Rh Interpretation	ABORh Interpretation HUP	4860043	CERNER
+ABO Rh Interpretation	ABORh Interpretation PPMC	4861043	CERNER
+ABO Rh Interpretation	ABORh Interpretation PAH	4855043	CERNER
+ABO Rh Interpretation	ABO RH INTERPRETATIO	167411	DMEE
+ABO Rh Interpretation	ABORh Interp HUP	ABORh HUP_ABORh Interp HUP	PS
+ABO Rh Interpretation	ABORh Interp PAH	ABORh PAH_ABORh Interp PAH	PS
+ABO Rh Interpretation	ABORh Interp PPMC	ABORh PPMC_ABORh Interp PPMC	PS
+Absolute Band Count	Absolute Band Count	4859133	CERNER
+Absolute Band Count	Bands (ABAND)	228313	SCM
+Absolute Band Count	Band Abs	165737	DMEE
+Absolute Band Count	Band Abs	186128	DMEE
+Absolute Band Count	Band Abs	M-DIFF_Band Abs	PS
+Absolute Basophil Count	Absolute Basophil Count	4861038	CERNER
+Absolute Basophil Count	Absolute Baso Count Result HUP/PMC	226754	SCM
+Absolute Basophil Count	Absolute Basophil Count	4862135	CERNER
+Absolute Basophil Count	UNKNOWN item template	227865	SCM
+Absolute Basophil Count	ABC	168694	DMEE
+Absolute Basophil Count	Basophil Abs	186130	DMEE
+Absolute Basophil Count	Basophil Abs	165887	DMEE
+Absolute Basophil Count	ABC	AUTODIF_ABC	PS
+Absolute Basophil Count	Basophil Abs	M-DIFF_Basophil Abs	PS
+Absolute Eosinophil Count	Absolute Eosinophil	4857060	CERNER
+Absolute Eosinophil Count	Absolute EOS Count Result HUP/PMC	228753	SCM
+Absolute Eosinophil Count	Absolute Eosinophil Count	4862415	CERNER
+Absolute Eosinophil Count	UNKNOWN item template	226865	SCM
+Absolute Eosinophil Count	AEC	165638	DMEE
+Absolute Eosinophil Count	AEC	168776	DMEE
+Absolute Eosinophil Count	Eos Abs	186924	DMEE
+Absolute Eosinophil Count	Eos Abs	165875	DMEE
+Absolute Eosinophil Count	AEC	AUTODIF_AEC	PS
+Absolute Eosinophil Count	Eos Abs	M-DIFF_Eos Abs	PS
+Absolute Lymphocyte Count	Absolute Lymp Count- Result HUP/PMC	228754	SCM
+Absolute Lymphocyte Count	Absolute Lymphocyte Count	4858700	CERNER
+Absolute Lymphocyte Count	Lymphs (ALYMPH)	226094	SCM
+Absolute Lymphocyte Count	ALC	162014	DMEE
+Absolute Lymphocyte Count	ALC	165815	DMEE
+Absolute Lymphocyte Count	Lymph Abs	162066	DMEE
+Absolute Lymphocyte Count	ALC	AUTODIF_ALC	PS
+Absolute Lymphocyte Count	Lymph Abs	M-DIFF_Lymph Abs	PS
+Absolute Lymphocyte Variant Count	Absolute Lymph Variant Count	4859702	CERNER
+Absolute Lymphocyte Variant Count	Lyvar (ALYVAR)	226095	SCM
+Absolute Lymphocyte Variant Count	LyVar Abs	168736	DMEE
+Absolute Lymphocyte Variant Count	LyVar Abs	179056	DMEE
+Absolute Monocyte Count	Absolute mono Count-Results HUP/PMC	226755	SCM
+Absolute Monocyte Count	Absolute Monocyte Count	4856737	CERNER
+Absolute Monocyte Count	Monos (AMONO)	228088	SCM
+Absolute Monocyte Count	AMC	165602	DMEE
+Absolute Monocyte Count	AMC	165839	DMEE
+Absolute Monocyte Count	Monocyte Abs	165764	DMEE
+Absolute Monocyte Count	Monocyte Abs	162097	DMEE
+Absolute Monocyte Count	Lymph Abs	162089	DMEE
+Absolute Monocyte Count	AMC	AUTODIF_AMC	PS
+Absolute Monocyte Count	Monocyte Abs	M-DIFF_Monocyte Abs	PS
+Absolute Neutrophil Count	Absolute Neut Count-Result HUP/PMC	227754	SCM
+Absolute Neutrophil Count	ANC	168689	DMEE
+Absolute Neutrophil Count	ANC	168774	DMEE
+Absolute Neutrophil Count	ANC	AUTODIF_ANC	PS
+Absolute Segmented Neutrophil Count	Absolute Segmented Neutrophil Count	4867028	CERNER
+Absolute Segmented Neutrophil Count	LEAN Segs (ASEG)	239540	SCM
+Absolute Segmented Neutrophil Count	Seg Abs	162060	DMEE
+Absolute Segmented Neutrophil Count	Seg Abs	183176	DMEE
+Alanine Aminotransferase	Alanine Aminotransferase	4860077	CERNER
+Alanine Aminotransferase	C ALT (ALANINE AMINOTRANSFERASE)	163032	EPIC
+Alanine Aminotransferase	MCODES_Alanine Aminotransferase HUP/PPMC	233953	SCM
+Alanine Aminotransferase	ALT (SGPT) PAH	237688	SCM
+Alanine Aminotransferase	ALT	168209	DMEE
+Alanine Aminotransferase	ALT	168472	DMEE
+Alanine Aminotransferase	Alanine Aminotransferase	LVRFIB_Alanine Aminotransferase	PS
+Alanine Aminotransferase	ALT	HEPPNL_ALT	PS
+Alanine Aminotransferase	ALT	LIVEREV_ALT	PS
+Alanine Aminotransferase	ALT	LIVERIN_ALT	PS
+Alanine Aminotransferase	ALT	CMP_ALT	PS
+Alanine Aminotransferase	ALT	Liver Evaluation Profile (A/G Ratio, ALB, ALP, ALT_ALT	PS
+Alanine Aminotransferase	ALT	Liver Injury Profile (ALP, ALT, AST, DBIL, INDBIL,_ALT	PS
+Alanine Aminotransferase	ALT	ALT_ALT	PS
+Alanine Aminotransferase	ALT	CHEM16_ALT	PS
+Alanine Aminotransferase	ALT	NTPN_ALT	PS
+Albumin Level	Albumin Level	4862069	CERNER
+Albumin Level	C ALBUMIN	163029	EPIC
+Albumin Level	MCODES_Albumin HUP/PPMC	235164	SCM
+Albumin Level	Albumin,  Serum PAH	234150	SCM
+Albumin Level	Albumin Lvl	168144	DMEE
+Albumin Level	Albumin Lvl	168115	DMEE
+Albumin Level	Albumin Lvl	HEPPNL_Albumin Lvl	PS
+Albumin Level	Albumin Lvl	LIVEREV_Albumin Lvl	PS
+Albumin Level	Albumin Lvl	CMP_Albumin Lvl	PS
+Albumin Level	Albumin Lvl	ALB_Albumin Lvl	PS
+Albumin Level	Albumin Lvl	Liver Evaluation Profile (A/G Ratio, ALB, ALP, ALT_Albumin Lvl	PS
+Albumin Level	Albumin Lvl	Alb_Albumin Lvl	PS
+Albumin Level	Albumin Lvl	CHEM16_Albumin Lvl	PS
+Albumin Level	Albumin Lvl	Chem11_Albumin Lvl	PS
+Albumin Level	Albumin Lvl	NTPN_Albumin Lvl	PS
+Albumin/Globulin Ratio	A/G Ratio	LIVEREV_A/G Ratio	PS
+Albumin/Globulin Ratio	A/G Ratio	Liver Evaluation Profile (A/G Ratio, ALB, ALP, ALT_A/G Ratio	PS
+Alkaline Phosphatase	Alkaline Phosphatase	4862073	CERNER
+Alkaline Phosphatase	C ALKALINE PHOSPHATASE	159163	EPIC
+Alkaline Phosphatase	MCODES_Alkaline Phosphatase HUP/PPMC	229360	SCM
+Alkaline Phosphatase	Alkaline Phosphatase, Serum PAH	233150	SCM
+Alkaline Phosphatase	Alk Phos	168178	DMEE
+Alkaline Phosphatase	Alk Phos	164042	DMEE
+Alkaline Phosphatase	ALKALINE PHOSPHATASE	161508	DMEE
+Alkaline Phosphatase	Alk Phos	HEPPNL_Alk Phos	PS
+Alkaline Phosphatase	Alk Phos	LIVEREV_Alk Phos	PS
+Alkaline Phosphatase	Alk Phos	LIVERIN_Alk Phos	PS
+Alkaline Phosphatase	Alk Phos	CMP_Alk Phos	PS
+Alkaline Phosphatase	Alk Phos	Liver Evaluation Profile (A/G Ratio, ALB, ALP, ALT_Alk Phos	PS
+Alkaline Phosphatase	Alk Phos	Liver Injury Profile (ALP, ALT, AST, DBIL, INDBIL,_Alk Phos	PS
+Alkaline Phosphatase	Alk Phos	ALKP_Alk Phos	PS
+Alkaline Phosphatase	Alk Phos	CHEM16_Alk Phos	PS
+Alkaline Phosphatase	Alk Phos	NTPN_Alk Phos	PS
+Alkaline Phosphatase	Alk Phos Liver	ALKFR_Alk Phos Liver	PS
+Anion Gap	Anion Gap	4855090	CERNER
+Anion Gap	MCODES_Anion Gap Result	11585007	SCM
+Anion Gap	ANION GAP	11479003	EPIC
+Anion Gap	Anion Gap	BMP_Anion Gap	PS
+Anion Gap	Anion Gap	CMP_Anion Gap	PS
+Anion Gap	Anion Gap	NCL_Anion Gap	PS
+Anion Gap	Anion Gap	CHEM16_Anion Gap	PS
+Anion Gap	Anion Gap	Chem11_Anion Gap	PS
+Anion Gap	Anion Gap	NTPN_Anion Gap	PS
+Anion Gap	Anion Gap	CL_Anion Gap	PS
+Anion Gap	Anion Gap	Lytes_Anion Gap	PS
+Antibody Screen Interpretation	C ANTIBODY SCREEN INTE	159469	EPIC
+Antibody Screen Interpretation	Antibody Screen Interpretation (A)	226331	SCM
+Antibody Screen Interpretation	ECHO Antibody Screen Interp	4860044	CERNER
+Antibody Screen Interpretation	Antibody Screen Interpretation	4857043	CERNER
+Antibody Screen Interpretation	Antibody Screen Interpretation PAH	231923	SCM
+Antibody Screen Interpretation	ANTIBODY SCREEN INTE	167451	DMEE
+Antibody Screen Interpretation	Antibody Scr Int	162824	DMEE
+Antibody Screen Interpretation	Ab Scrn Interp	Ab Scrn_Ab Scrn Interp	PS
+Antibody Screen Interpretation	Antibody Scr Int	ABSC_Antibody Scr Int	PS
+Aspartate Aminotransferase	Aspartate Aminotransferase	4862121	CERNER
+Aspartate Aminotransferase	C AST (ASPARTATE AMINOTRANSFERASE)	170470	EPIC
+Aspartate Aminotransferase	LEAN Aspartate Aminotransferase	233737	SCM
+Aspartate Aminotransferase	AST (SGOT) PAH	230153	SCM
+Aspartate Aminotransferase	AST	164201	DMEE
+Aspartate Aminotransferase	AST	168471	DMEE
+Aspartate Aminotransferase	AST	HEPPNL_AST	PS
+Aspartate Aminotransferase	AST	LIVEREV_AST	PS
+Aspartate Aminotransferase	AST	LIVERIN_AST	PS
+Aspartate Aminotransferase	AST	CMP_AST	PS
+Aspartate Aminotransferase	AST	Liver Evaluation Profile (A/G Ratio, ALB, ALP, ALT_AST	PS
+Aspartate Aminotransferase	AST	Liver Injury Profile (ALP, ALT, AST, DBIL, INDBIL,_AST	PS
+Aspartate Aminotransferase	AST	AST_AST	PS
+Aspartate Aminotransferase	AST	CHEM16_AST	PS
+Bacteria	Bacteria	228312	SCM
+Bacteria	BACTERIA	170484	EPIC
+Band Count	Band Manual	4858133	CERNER
+Band Count	C # BAND NEUTROPHILS (MANUAL)	164397	EPIC
+Band Count	Bands PAH Results	226532	SCM
+Band Count	Band Man	168731	DMEE
+Band Count	Band Man	168806	DMEE
+Band Count	# BANDS	162063	DMEE
+Band Count	Band Man	M-DIFF_Band Man	PS
+Base Excess	Base  Excess PAH	227532	SCM
+Base Excess	C BASE EXCESS	6936004	EPIC
+Base Excess, Arterial	Base Excess Arterial	4862134	CERNER
+Base Excess, Arterial	Base Excess Art Result	227847	SCM
+Base Excess, Arterial	C BASE EXCESS ART	8817007	EPIC
+Base Excess, Arterial	Base Excess Art	178132	DMEE
+Base Excess, Arterial	Base Excess Art	ABL90 ART_Base Excess Art	PS
+Base Excess, Arterial	Base Excess Art	NVABG_Base Excess Art	PS
+Base Excess, Arterial	Base Excess Art	GEM4ART_Base Excess Art	PS
+Base Excess, Arterial	Base Excess Art	_ABG/Lytes Rals PAH_Base Excess Art	PS
+Base Excess, Arterial	Base Excess Art	VABG_Base Excess Art	PS
+Base Excess, Arterial	Base Excess Art	_ABG Rals PAH_Base Excess Art	PS
+Base Excess, Venous	Base Excess Venous	4860135	CERNER
+Base Excess, Venous	Base Excess Ven	227849	SCM
+Base Excess, Venous	C BASE EXCESS VENOUS	1412001	EPIC
+Base Excess, Venous	BASE EXCESS VEN	171933	EPIC
+Base Excess, Venous	Base Excess Ven	182132	DMEE
+Base Excess, Venous	Base Excess Ven	ABL90 VEN_Base Excess Ven	PS
+Base Excess, Venous	Base Excess Ven	VBG_Base Excess Ven	PS
+Base Excess, Venous	Base Excess Ven	_Abg/Lytes Rals Venous_Base Excess Ven	PS
+Base Excess, Venous	Base Excess Ven	GEM4VEN_Base Excess Ven	PS
+Basophil Count	C # BASOPHILS (AUTO)	160596	EPIC
+Basophil Count	Basophil # PAH Result	226533	SCM
+Basophil Count	Basophil Manual	4860136	CERNER
+Basophil Count	Baso (BASO 1)	228033	SCM
+Basophil Count	C # BASOPHILS (MANUAL)	160616	EPIC
+Basophil Count	Basophils PAH  Results	226534	SCM
+Basophil Count	Basophil Auto	162029	DMEE
+Basophil Count	Basophil Auto	168753	DMEE
+Basophil Count	Basophil Man	162078	DMEE
+Basophil Count	Basophil Man	166052	DMEE
+Basophil Count	Basophil BF	BF Diff_Basophil BF	PS
+Basophil Count	Basophil BF	BF DIFF_Basophil BF	PS
+Basophil Count	Basophil Man	M-DIFF_Basophil Man	PS
+Bicarbonate	HCO3  PAH	227576	SCM
+Bicarbonate	C HCO3	6935004	EPIC
+Bicarbonate	HCO3 Ven	178990	DMEE
+Bicarbonate, Arterial	Bicarbonate Arterial	4859532	CERNER
+Bicarbonate, Arterial	HCO3 Art Result	226847	SCM
+Bicarbonate, Arterial	C HCO3 ART	8816007	EPIC
+Bicarbonate, Arterial	HCO3 Art	186986	DMEE
+Bicarbonate, Arterial	HCO3 Art	ABL90 ART_HCO3 Art	PS
+Bicarbonate, Arterial	HCO3 Art	NVABG_HCO3 Art	PS
+Bicarbonate, Arterial	HCO3 Art	GEM4ART_HCO3 Art	PS
+Bicarbonate, Arterial	HCO3 Art	_ABG/Lytes Rals PAH_HCO3 Art	PS
+Bicarbonate, Arterial	HCO3 Art	VABG_HCO3 Art	PS
+Bicarbonate, Arterial	HCO3 Art	_ABG Rals PAH_HCO3 Art	PS
+Bicarbonate, Venous	Bicarbonate Venous	4857532	CERNER
+Bicarbonate, Venous	HCO3 Ven Result	226849	SCM
+Bicarbonate, Venous	C HCO3 VEN	160625	EPIC
+Bicarbonate, Venous	HCO3 Ven	ABL90 VEN_HCO3 Ven	PS
+Bicarbonate, Venous	HCO3 Ven	VBG_HCO3 Ven	PS
+Bicarbonate, Venous	HCO3 Ven	_Abg/Lytes Rals Venous_HCO3 Ven	PS
+Bicarbonate, Venous	HCO3 Ven	GEM4VEN_HCO3 Ven	PS
+Bilirubin Direct	Bilirubin Direct	4861149	CERNER
+Bilirubin Direct	C BILIRUBIN, DIRECT	159164	EPIC
+Bilirubin Direct	MCODES_Direct Bilirubin Result	5071058	SCM
+Bilirubin Direct	MCODES_Direct Bilirubin Result	10285021	SCM
+Bilirubin Direct	Direct Bilirubin Result	228308	SCM
+Bilirubin Direct	Bilirubin Dir	164222	DMEE
+Bilirubin Direct	MCODES_Direct Bilirubin Only	233405	SCM
+Bilirubin Direct	Bili Direct	168290	DMEE
+Bilirubin Direct	Bili Direct	DBIL Only_Bili Direct	PS
+Bilirubin Direct	Bilirubin Dir	HEPPNL_Bilirubin Dir	PS
+Bilirubin Direct	Bilirubin Dir	LIVEREV_Bilirubin Dir	PS
+Bilirubin Direct	Bilirubin Dir	LIVERIN_Bilirubin Dir	PS
+Bilirubin Direct	Bilirubin Dir	Liver Evaluation Profile (A/G Ratio, ALB, ALP, ALT_Bilirubin Dir	PS
+Bilirubin Direct	Bilirubin Dir	Liver Injury Profile (ALP, ALT, AST, DBIL, INDBIL,_Bilirubin Dir	PS
+Bilirubin Direct	Bilirubin Dir	DBIL Group_Bilirubin Dir	PS
+Bilirubin Direct	Bilirubin Dir	NTPN_Bilirubin Dir	PS
+Bilirubin Direct	Bilirubin Dir	DBILADD_Bilirubin Dir	PS
+Bilirubin Indirect	Bilirubin Indirect	4858148	CERNER
+Bilirubin Indirect	MCODES_Indirect Bilirubin HUP/PPMC	5073047	SCM
+Bilirubin Indirect	C INDIRECT BILI	159200	EPIC
+Bilirubin Indirect	UNKNOWN item template	7031003	SCM
+Bilirubin Indirect	C BILI INDIRECT	7206004	EPIC
+Bilirubin Indirect	Indirect Bilirubin	228224	SCM
+Bilirubin Indirect	Bili Indirect	165200	DMEE
+Bilirubin Indirect	Bili Indirect	HEPPNL_Bili Indirect	PS
+Bilirubin Indirect	Bili Indirect	LIVEREV_Bili Indirect	PS
+Bilirubin Indirect	Bili Indirect	LIVERIN_Bili Indirect	PS
+Bilirubin Indirect	Bili Indirect	Liver Evaluation Profile (A/G Ratio, ALB, ALP, ALT_Bili Indirect	PS
+Bilirubin Indirect	Bili Indirect	Liver Injury Profile (ALP, ALT, AST, DBIL, INDBIL,_Bili Indirect	PS
+Bilirubin Indirect	Bili Indirect	DBIL Group_Bili Indirect	PS
+Bilirubin Indirect	Bili Indirect	NTPN_Bili Indirect	PS
+Bilirubin Indirect	Bili Indirect	DBILADD_Bili Indirect	PS
+Bilirubin Total	Bilirubin Total	4862149	CERNER
+Bilirubin Total	C BILIRUBIN, TOTAL	170471	EPIC
+Bilirubin Total	MCODES_Total Bilirubin HUP/PPMC	230233	SCM
+Bilirubin Total	Bilirubin Total PAH	230640	SCM
+Bilirubin Total	Bili Total	168190	DMEE
+Bilirubin Total	Bili Total	168274	DMEE
+Bilirubin Total	TOTAL BILIRUBIN	168188	DMEE
+Bilirubin Total	Bili Total	HEPPNL_Bili Total	PS
+Bilirubin Total	Bili Total	LIVEREV_Bili Total	PS
+Bilirubin Total	Bili Total	LIVERIN_Bili Total	PS
+Bilirubin Total	Bili Total	CMP_Bili Total	PS
+Bilirubin Total	Bili Total	Liver Evaluation Profile (A/G Ratio, ALB, ALP, ALT_Bili Total	PS
+Bilirubin Total	Bili Total	Liver Injury Profile (ALP, ALT, AST, DBIL, INDBIL,_Bili Total	PS
+Bilirubin Total	Bili Total	TBIL_Bili Total	PS
+Bilirubin Total	Bili Total	DBIL Group_Bili Total	PS
+Bilirubin Total	Bili Total	CHEM16_Bili Total	PS
+Bilirubin Total	Bili Total	NTPN_Bili Total	PS
+Blood Urea Nitrogen	Blood Urea Nitrogen	4862187	CERNER
+Blood Urea Nitrogen	C UREA NITROGEN	159165	EPIC
+Blood Urea Nitrogen	MCODES_BUN HUP/PPMC	230008	SCM
+Blood Urea Nitrogen	BUN, Serum PAH	239494	SCM
+Blood Urea Nitrogen	BUN	164987	DMEE
+Blood Urea Nitrogen	BUN	168010	DMEE
+Blood Urea Nitrogen	BUN	161814	DMEE
+Blood Urea Nitrogen	BUN	BMP_BUN	PS
+Blood Urea Nitrogen	BUN	CMP_BUN	PS
+Blood Urea Nitrogen	BUN	BUN_BUN	PS
+Blood Urea Nitrogen	BUN	CHEM16_BUN	PS
+Blood Urea Nitrogen	BUN	Chem11_BUN	PS
+Blood Urea Nitrogen	BUN	NTPN_BUN	PS
+Blood Urea Nitrogen	BUN BF	BF UN_BUN BF	PS
+Calcium Level	Calcium Level Total	4862201	CERNER
+Calcium Level	C CALCIUM	163092	EPIC
+Calcium Level	MCODES_Calcium Level HUP/PPMC	230272	SCM
+Calcium Level	Calcium, Serum PAH	233865	SCM
+Calcium Level	Calcium Lvl	168114	DMEE
+Calcium Level	Calcium Lvl	164507	DMEE
+Calcium Level	CALCIUM	168104	DMEE
+Calcium Level	CALCIUM	161447	DMEE
+Calcium Level	CALCIUM	163889	DMEE
+Calcium Level	CALCIUM	161446	DMEE
+Calcium Level	CALCIUM	161440	DMEE
+Calcium Level	CALCIUM SERUM	161653	DMEE
+Calcium Level	CALCIUM	163868	DMEE
+Calcium Level	CALCIUM	168108	DMEE
+Calcium Level	CALCIUM	161438	DMEE
+Calcium Level	CALCIUM	168111	DMEE
+Calcium Level	CALCIUM	168112	DMEE
+Calcium Level	CALCIUM	168106	DMEE
+Calcium Level	CALCIUM	163862	DMEE
+Calcium Level	CALCIUM	168107	DMEE
+Calcium Level	CALCIUM	168113	DMEE
+Calcium Level	CALCIUM	161437	DMEE
+Calcium Level	CALCIUM	168109	DMEE
+Calcium Level	CALCIUM	163874	DMEE
+Calcium Level	CALCIUM	163886	DMEE
+Calcium Level	CALCIUM	161442	DMEE
+Calcium Level	CALCIUM	163859	DMEE
+Calcium Level	Calcium Lvl	BMP_Calcium Lvl	PS
+Calcium Level	Calcium Lvl	CMP_Calcium Lvl	PS
+Calcium Level	Calcium Lvl	CA_Calcium Lvl	PS
+Calcium Level	Calcium Lvl	CHEM16_Calcium Lvl	PS
+Calcium Level	Calcium Lvl	Chem11_Calcium Lvl	PS
+Calcium Level	Calcium Lvl	NTPN_Calcium Lvl	PS
+Carbon Dioxide	Carbon Dioxide	4859284	CERNER
+Carbon Dioxide	C CARBON DIOXIDE	163044	EPIC
+Carbon Dioxide	MCODES_CO2 Content HUP/PPMC	232551	SCM
+Carbon Dioxide	CO2	163826	DMEE
+Carbon Dioxide	CO2	164699	DMEE
+Carbon Dioxide	CO2 CONTENT	161412	DMEE
+Carbon Dioxide	CO2 CONTENT	161425	DMEE
+Carbon Dioxide	CO2 CONTENT	163823	DMEE
+Carbon Dioxide	CO2 CONTENT	161415	DMEE
+Carbon Dioxide	CO2 CONTENT	163817	DMEE
+Carbon Dioxide	CO2 CONTENT	161426	DMEE
+Carbon Dioxide	CO2 CONTENT	168081	DMEE
+Carbon Dioxide	CO2 CONTENT	168092	DMEE
+Carbon Dioxide	CO2 CONTENT	161414	DMEE
+Carbon Dioxide	CO2 CONTENT	163799	DMEE
+Carbon Dioxide	CO2 CONTENT	161423	DMEE
+Carbon Dioxide	CO2	5148005	DMEE
+Carbon Dioxide	CO2 CONTENT	161424	DMEE
+Carbon Dioxide	CO2 CONTENT	168080	DMEE
+Carbon Dioxide	CO2 CONTENT	168082	DMEE
+Carbon Dioxide	CO2 CONTENT	163781	DMEE
+Carbon Dioxide	CO2 CONTENT	168084	DMEE
+Carbon Dioxide	CO2 CONTENT	163820	DMEE
+Carbon Dioxide	CO2 CONTENT	161417	DMEE
+Carbon Dioxide	CO2 CONTENT	168090	DMEE
+Carbon Dioxide	CO2 CONTENT	163787	DMEE
+Carbon Dioxide	CO2	BMP_CO2	PS
+Carbon Dioxide	CO2	CMP_CO2	PS
+Carbon Dioxide	CO2	CHEM16_CO2	PS
+Carbon Dioxide	CO2	Chem11_CO2	PS
+Carbon Dioxide	CO2	NTPN_CO2	PS
+Carbon Dioxide	CO2	Lytes_CO2	PS
+Carbon Dioxide, Venous	CO2 Venous PAH	229840	SCM
+Carbon Dioxide, Venous	CO2 VENOUS	161717	DMEE
+Carbon Dioxide, Venous	pCO2 Ven	172630	DMEE
+Carboxyhemoglobin, Venous	CarboxyHgb Ven	8835004	CERNER
+Carboxyhemoglobin, Venous	MCODES_CarboxyHgb Ven Result	8853006	SCM
+Carboxyhemoglobin, Venous	C CARBOXYHGB VEN	8867003	EPIC
+Carboxyhemoglobin, Venous	Carboxyhemo	GEM4VEN_Carboxyhemo	PS
+Carboxyhemoglobin, Venous	CarboxyHgb Ven	ABL90 VEN_CarboxyHgb Ven	PS
+Cells Counted	Cells Counted	4860229	CERNER
+Cells Counted	Total Cells Counted	227123	SCM
+Cells Counted	CELLS COUNTED	11703026	EPIC
+Chloride Level	Chloride	4856264	CERNER
+Chloride Level	C CHLORIDE	170474	EPIC
+Chloride Level	MCODES_Chloride Result HUP/PPMC	5074053	SCM
+Chloride Level	Chloride, Serum PAH	237496	SCM
+Chloride Level	CHLORIDE	774006	EPIC
+Chloride Level	Chloride  PAH	227550	SCM
+Chloride Level	Chloride	226037	SCM
+Chloride Level	CHLORIDE	163742	DMEE
+Chloride Level	Chloride	164666	DMEE
+Chloride Level	CHLORIDE	168077	DMEE
+Chloride Level	CHLORIDE	168076	DMEE
+Chloride Level	CHLORIDE	BMP_CHLORIDE	PS
+Chloride Level	Chloride	BMP_Chloride	PS
+Chloride Level	CHLORIDE	ABL90 VEN_CHLORIDE	PS
+Chloride Level	CHLORIDE	CMP_CHLORIDE	PS
+Chloride Level	Chloride	CMP_Chloride	PS
+Chloride Level	CHLORIDE	NCL_CHLORIDE	PS
+Chloride Level	CHLORIDE	CHEM16_CHLORIDE	PS
+Chloride Level	Chloride	Chem11_Chloride	PS
+Chloride Level	CHLORIDE	CL_CHLORIDE	PS
+Chloride Level	CHLORIDE	NTPN_CHLORIDE	PS
+Chloride Level	Chloride	Lytes_Chloride	PS
+Chloride Level, Arterial	Chloride Art	8828005	CERNER
+Chloride Level, Arterial	MCODES_Chloride Art Result	8852005	SCM
+Chloride Level, Arterial	C CHLORIDE ART	8840005	EPIC
+Chloride Level, Arterial	Chloride Art	ABL90 ART_Chloride Art	PS
+Corrected WBC	LH785 corrected WBC	4859791	CERNER
+Corrected WBC	WBC Corrected	4867304	CERNER
+Corrected WBC	C WBC CORRECTED	170466	EPIC
+Corrected WBC	WBC Corrected	227431	SCM
+Corrected WBC	MCODES_WBC Corrected (Group) LIO	230532	SCM
+Corrected WBC	WBC Corr	168613	DMEE
+Corrected WBC	WBC Corr	187286	DMEE
+Corrected WBC	WBC CORRECTED	161942	DMEE
+Corrected WBC	WBC CORRECTED	165386	DMEE
+Corrected WBC	WBC CORRECTED	161946	DMEE
+Corrected WBC	WBC CORRECTED	161943	DMEE
+Corrected WBC	WBC CORRECTED	161944	DMEE
+Corrected WBC	WBC CORRECTED	168612	DMEE
+Corrected WBC	WBC Corr	5145016	DMEE
+Corrected WBC	WBC CORRECTED	168609	DMEE
+Corrected WBC	WBC CORRECTED	165383	DMEE
+Creatine Kinase	Creatine Kinase	4866197	CERNER
+Creatine Kinase	LEAN Creatine Kinase	239565	SCM
+Creatine Kinase	C CREATINE KINASE	163113	EPIC
+Creatinine Level	Creatinine	4857317	CERNER
+Creatinine Level	MCODES_Creatinine Level	231351	SCM
+Creatinine Level	C CREATININE	170473	EPIC
+Creatinine Level	Creatinine	168022	DMEE
+Creatinine Level	.Creatinine Serum PAH	230411	SCM
+Creatinine Level	Creatinine	161740	DMEE
+Creatinine Level	CREATININE,SERUM	161355	DMEE
+Creatinine Level	Creatinine mg per dL	161662	DMEE
+Creatinine Level	Creatinine	BMP_Creatinine	PS
+Creatinine Level	Creatinine	CMP_Creatinine	PS
+Creatinine Level	Creatinine	NCRE_Creatinine	PS
+Creatinine Level	Creatinine	CREA_Creatinine	PS
+Creatinine Level	Creatinine	CHEM16_Creatinine	PS
+Creatinine Level	Creatinine	Chem11_Creatinine	PS
+Creatinine Level	Creatinine	NTPN_Creatinine	PS
+Eosinophil Count	C # EOSINOPHILS (AUTO)	167040	EPIC
+Eosinophil Count	Eosinophil # PAH	228565	SCM
+Eosinophil Count	Eosinophil Manual	4861416	CERNER
+Eosinophil Count	Eos (EOSIN)	227034	SCM
+Eosinophil Count	C # EOSINOPHILS (MANUAL)	167080	EPIC
+Eosinophil Count	Eosinophils PAH Results	227566	SCM
+Eosinophil Count	Eos Auto	168698	DMEE
+Eosinophil Count	Eos Auto	168750	DMEE
+Eosinophil Count	Eos Man	162076	DMEE
+Eosinophil Count	Eos Man	166034	DMEE
+Eosinophil Count	Eos Man	M-DIFF_Eos Man	PS
+Fraction of Inspired Oxygen	%FiO2	6756003	CERNER
+Fraction of Inspired Oxygen, Arterial	FIO2 Art.	8828003	CERNER
+Fraction of Inspired Oxygen, Arterial	MCODES_FIO2 Art Result	8851006	SCM
+Fraction of Inspired Oxygen, Arterial	C FIO2 ARTERIAL	6935003	EPIC
+Fraction of Inspired Oxygen, Arterial	FIO2 Art.	ABL90 ART_FIO2 Art.	PS
+GFR-African American	GFR-African American	4860505	CERNER
+GFR-African American	C ESTIMATED GFR AA	167072	EPIC
+GFR-African American	GFR-African American	227756	SCM
+GFR-African American	UNKNOWN item template	229054	SCM
+GFR-African American	GFR-AA	182970	DMEE
+GFR-African American	GFR-AA	GFR-EST_GFR-AA	PS
+GFR-Non African American	GFR-Non African American	4861505	CERNER
+GFR-Non African American	C ESTIMATED GFR NON-AA	160612	EPIC
+GFR-Non African American	GFR-Non African American	226756	SCM
+GFR-Non African American	UNKNOWN item template	232054	SCM
+GFR-Non African American	GFR-NAA	178972	DMEE
+GFR-Non African American	GFR-NAA	GFR-EST_GFR-NAA	PS
+Glucose Level	Glucose Level	4858513	CERNER
+Glucose Level	MCODES_Glucose HUP-O PAH-Result	231542	SCM
+Glucose Level	GLUCOSE	11445004	EPIC
+Glucose Level	Glucose Serum PAH	239505	SCM
+Glucose Level	C GLUCOSE	163002	EPIC
+Glucose Level	Glucose Point of Care	4859910	CERNER
+Glucose Level	MCODES_POC Plasma Glucose. ResultHUP/PMC	234202	SCM
+Glucose Level	C POC GLUCOSE (FINGERSTIC)	166762	EPIC
+Glucose Level	Glucose (POC) PAH	233167	SCM
+Glucose Level	Glucose Lvl	161839	DMEE
+Glucose Level	Glucose Lvl	163514	DMEE
+Glucose Level	Glucose Lvl	168430	DMEE
+Glucose Level	GLUCOSE	163505	DMEE
+Glucose Level	GLUCOSE	163511	DMEE
+Glucose Level	Glucose BF	BF GLUC_Glucose BF	PS
+Glucose Level	Glucose Lvl	BMP_Glucose Lvl	PS
+Glucose Level	Glucose Lvl	CMP_Glucose Lvl	PS
+Glucose Level	Glucose Lvl	GLUC_Glucose Lvl	PS
+Glucose Level	Glucose Lvl	CHEM16_Glucose Lvl	PS
+Glucose Level	Glucose Lvl	Chem11_Glucose Lvl	PS
+Glucose Level	Glucose Lvl	NTPN_Glucose Lvl	PS
+Glucose Level, Arterial	MCODES_Glucose Art  Result	8851004	SCM
+Glucose Level, Arterial	Glu Art	8829005	CERNER
+Glucose Level, Arterial	C GLUCOSE ART	8841005	EPIC
+Glucose Level, Arterial	Glu Art	ABL90 ART_Glu Art	PS
+Glucose POC	POC Plasma Glu	163037	DMEE
+Glucose POC	POC Plasma Glu	161926	DMEE
+Glucose POC	POC Plasma Glu	Glucose (Rals)_POC Plasma Glu	PS
+Glucose POC	POC Plasma Glu	_ABG/Lytes Rals PAH_POC Plasma Glu	PS
+Glucose POC	POC Plasma Glu	_Abg/Lytes Rals Venous_POC Plasma Glu	PS
+Hematocrit	Hematocrit	4859533	CERNER
+Hematocrit	C HEMATOCRIT	170467	EPIC
+Hematocrit	Hematocrit (HCT) Result HUP/PMC	228244	SCM
+Hematocrit	Hematocrit PAH	239506	SCM
+Hematocrit	Hematocrit  PAH ***LIO***	237705	SCM
+Hematocrit	HEMATOCRIT	881002	EPIC
+Hematocrit	Hct	161980	DMEE
+Hematocrit	Hct	168666	DMEE
+Hematocrit	HEMATOCRIT	165452	DMEE
+Hematocrit	HEMATOCRIT	165485	DMEE
+Hematocrit	Hct	CBCAUTO_Hct	PS
+Hematocrit	Hct	CBC PLT_Hct	PS
+Hematocrit	Hct	ABL90 VEN_Hct	PS
+Hematocrit	Hct	GEM4VEN_Hct	PS
+Hematocrit	Hct	GEM4ART_Hct	PS
+Hematocrit	Hct	NHT_Hct	PS
+Hematocrit	Hct	GEM4000 COOX_Hct	PS
+Hematocrit	Hct	HCT&HBG_Hct	PS
+Hematocrit, Arterial	MCODES_Hct Art Result	8853007	SCM
+Hematocrit, Arterial	Hct Arterial	8830005	CERNER
+Hematocrit, Arterial	C HCT ARTERIAL	8870005	EPIC
+Hematocrit, Arterial	Hct Arterial	ABL90 ART_Hct Arterial	PS
+Hemoglobin	Hemoglobin	4855553	CERNER
+Hemoglobin	C HEMOGLOBIN	159159	EPIC
+Hemoglobin	Hemoglobin Result HUP/PMC	227245	SCM
+Hemoglobin	Hemoglobin PAH Result	237506	SCM
+Hemoglobin	MCODES_Hemoglobin POC Result PAH	226577	SCM
+Hemoglobin	Hgb	161966	DMEE
+Hemoglobin	Hgb	161987	DMEE
+Hemoglobin	HEMOGLOBIN	168620	DMEE
+Hemoglobin	HEMOGLOBIN	165443	DMEE
+Hemoglobin	Hgb	CBCAUTO_Hgb	PS
+Hemoglobin	Hgb	CBC PLT_Hgb	PS
+Hemoglobin	Hgb	ABL90 VEN_Hgb	PS
+Hemoglobin	Hgb	GEM4VEN_Hgb	PS
+Hemoglobin	Hgb	GEM4ART_Hgb	PS
+Hemoglobin	Hgb	COOX_Hgb	PS
+Hemoglobin	Hgb	GEM4000 COOX_Hgb	PS
+Hemoglobin	Hgb	HCT&HBG_Hgb	PS
+Hemoglobin	Hgb	_Hgb_Hgb	PS
+Hemoglobin A1c	Hgb A1c	169404	DMEE
+Hemoglobin, Arterial	Hgb Arterial	8829003	CERNER
+Hemoglobin, Arterial	MCODES_Hbg Art Result	8854005	SCM
+Hemoglobin, Arterial	C HGB ARTERIAL	8869004	EPIC
+Hemoglobin, Arterial	Hgb Arterial	ABL90 ART_Hgb Arterial	PS
+Human Chorionic Gonadotropin	HCG (Human Chorionic Gonadotropin) PAH	239094	SCM
+Hypochromasia	Hypochromasia	4862600	CERNER
+Hypochromasia	C HYPOCHROMIA	164346	EPIC
+Hypochromasia	Hypochromia	227198	SCM
+Hypochromasia	Hypochrom	165884	DMEE
+Hypochromasia	Hypochrom	M-DIFF_Hypochrom	PS
+International Normalization Ratio	INR Result	226585	SCM
+International Normalization Ratio	International Normalization Ratio	4855633	CERNER
+International Normalization Ratio	C INR (INTERNATIONAL NORMALIZED RATIO)	170534	EPIC
+International Normalization Ratio	INR	169145	DMEE
+International Normalization Ratio	INR	169039	DMEE
+International Normalization Ratio	INR	PTPTT_INR	PS
+International Normalization Ratio	INR	PT_INR	PS
+International Normalization Ratio	INR	_SPCPT_INR	PS
+International Normalization Ratio	INR	POC PT_INR	PS
+Ionized Calcium	Calcium Level Ionized	4859201	CERNER
+Ionized Calcium	MCODES_Ionized Calcium (CAION) Result	228106	SCM
+Ionized Calcium	C CALCIUM LEVEL IONIZED	1357002	EPIC
+Ionized Calcium	Ionized Calcium (POC) PAH	232492	SCM
+Ionized Calcium	C CALCIUM IONIZED	5213002	EPIC
+Ionized Calcium	IONIZED CALCIUM	164511	EPIC
+Ionized Calcium	Calcium Ionized	160900	DMEE
+Ionized Calcium	Calcium Ionized	170260	DMEE
+Ionized Calcium	IONIZED CALCIUM	160898	DMEE
+Ionized Calcium	IONIZED CALCIUM	162936	DMEE
+Ionized Calcium	IONIZED CALCIUM	167604	DMEE
+Ionized Calcium	IONIZED CALCIUM	167603	DMEE
+Ionized Calcium	IONIZED CALCIUM	163247	DMEE
+Ionized Calcium	IONIZED CALCIUM	161231	DMEE
+Ionized Calcium	IONIZED CALCIUM	163241	DMEE
+Ionized Calcium	IONIZED CALCIUM	173530	DMEE
+Ionized Calcium	IONIZED CALCIUM (PH 7.4)	173532	DMEE
+Ionized Calcium	IONIZED CALCIUM	169926	DMEE
+Ionized Calcium	IONIZED CALCIUM (PH	175532	DMEE
+Ionized Calcium	IONIZED CALCIUM	169603	DMEE
+Ionized Calcium	IONIZED CALCIUM	177526	DMEE
+Ionized Calcium	IONIZED CALCIUM (PH 7.4)	177528	DMEE
+Ionized Calcium	IONIZED CALCIUM	162937	DMEE
+Ionized Calcium	IONIZED CALCIUM	161232	DMEE
+Ionized Calcium	Calcium Ionized	ABL90 VEN_Calcium Ionized	PS
+Ionized Calcium	Calcium Ionized	_Abg/Lytes Rals Venous_Calcium Ionized	PS
+Ionized Calcium	Calcium Ionized	GEM4VEN_Calcium Ionized	PS
+Ionized Calcium	Calcium Ionized	ICA_Calcium Ionized	PS
+Ionized Calcium	Calcium Ionized	_ABG/Lytes Rals PAH_Calcium Ionized	PS
+Ionized Calcium	Calcium Ionized	ICA PMC_Calcium Ionized	PS
+Ionized Calcium	Calcium Ionized	IonCa PAH Rals_Calcium Ionized	PS
+Ionized Calcium, Arterial	MCODES_Ca Ion Art Result	8852003	SCM
+Ionized Calcium, Arterial	Ca Ion Art	8827005	CERNER
+Ionized Calcium, Arterial	C CA ION ART	8842005	EPIC
+Ionized Calcium, Arterial	Ca Ion Art	ABL90 ART_Ca Ion Art	PS
+Ionized Calcium, Arterial	Calcium Ionized	GEM4ART_Calcium Ionized	PS
+Lactate Dehydrogenase	Lactate Dehydrogenase	4862668	CERNER
+Lactate Dehydrogenase	C LACTATE DEHYDROGENAS	170493	EPIC
+Lactate Dehydrogenase	LDH BF Type, LDH	4859669	CERNER
+Lactate Dehydrogenase	Lactate Dehydrogenase Body Fluid	4856669	CERNER
+Lactate Dehydrogenase	C FLUID LDH	159534	EPIC
+Lactate Dehydrogenase	LDH BF TYPE	160620	EPIC
+Lactate Dehydrogenase	LDH,  Body Fluid PAH	239710	SCM
+Lactate Dehydrogenase	LACTATE DEHYDROGENASE	168220	DMEE
+Lactate Dehydrogenase	LACTATE DEHYDROGENASE	161553	DMEE
+Lactate Dehydrogenase	LACTATE DEHYDROGENASE	168219	DMEE
+Lactate Dehydrogenase	LACTATE DEHYDROGENAS	164207	DMEE
+Lactate Dehydrogenase	LACTATE DEHYDROGENASE	164204	DMEE
+Lactic Acid Level	Lactic Acid Level	4857661	CERNER
+Lactic Acid Level	MCODES_Lactic Acid.	233718	SCM
+Lactic Acid Level	LACTIC ACID	163122	EPIC
+Lactic Acid Level	Lactic Acid POC	4855661	CERNER
+Lactic Acid Level	Lactate - Point of Care Result PAH	231919	SCM
+Lactic Acid Level	C LACTATE POC	8525004	EPIC
+Lactic Acid Level	C LACTAT POC	5367004	EPIC
+Lactic Acid Level	LACTIC ACID	171660	EPIC
+Lactic Acid Level	Lactic Acid Lvl	161584	DMEE
+Lactic Acid Level	LACTAT POC	165086	DMEE
+Lactic Acid Level	Lactic Acid Venous	4860662	CERNER
+Lactic Acid Level	Lactic Acid Lvl	168443	DMEE
+Lactic Acid Level	LACTIC ACID	164297	DMEE
+Lactic Acid Level	Lactic Acid Art	551001	DMEE
+Lactic Acid Level	LACTIC ACID	168250	DMEE
+Lactic Acid Level	Lactic Acid Art	550015	DMEE
+Lactic Acid Level	LACTIC ACID POC	161846	DMEE
+Lactic Acid Level	LACTAT POC	POC Lactate PAH_LACTAT POC	PS
+Lactic Acid Level	LACTAT POC	_Abg/Lytes Rals Venous_LACTAT POC	PS
+Lactic Acid Level	LACTAT POC	_ABG/Lytes Rals PAH_LACTAT POC	PS
+Lactic Acid Level	LACTAT POC	_ABG Rals Venous PAH_LACTAT POC	PS
+Lactic Acid Level	LACTAT POC	_ABG Rals PAH_LACTAT POC	PS
+Lactic Acid Level	Lactic Acid Art	ABL90 ART_Lactic Acid Art	PS
+Lactic Acid Level	Lactic Acid Art	ALAC_Lactic Acid Art	PS
+Lactic Acid Level	Lactic Acid Lvl	ABL90 VEN_Lactic Acid Lvl	PS
+Lactic Acid Level	Lactic Acid Lvl	NLAC_Lactic Acid Lvl	PS
+Lactic Acid Level	Lactic Acid Lvl	LACT_Lactic Acid Lvl	PS
+Lactic Acid Level	Lactic Acid Lvl	GEM4VEN_Lactic Acid Lvl	PS
+Lactic Acid Level	Lactic Acid Lvl	GEM4ART_Lactic Acid Lvl	PS
+Lactic Acid Level	Lactic Acid Lvl	GEM4000 Lac_Lactic Acid Lvl	PS
+Lipase Level	Lipase Level	4861689	CERNER
+Lipase Level	C LIPASE	170491	EPIC
+Lipase Level	LEAN Lipase	239356	SCM
+Lipase Level	Lipase, Serum PAH	230175	SCM
+Lipase Level	Lipase Lvl	163922	DMEE
+Lipase Level	Lipase Lvl	161788	DMEE
+Lipase Level	Lipase Lvl	LIP_Lipase Lvl	PS
+Lymphocyte Count	Absolute Lymphocyte Count	4855070	CERNER
+Lymphocyte Count	C # LYMPHOCYTES (AUTO)	171402	EPIC
+Lymphocyte Count	Lymph # PAH Result	226598	SCM
+Lymphocyte Count	C # LYMPHOCYTES (MANUAL)	164874	EPIC
+Lymphocyte Count	Lymphocyte Manual	4855701	CERNER
+Lymphocyte Count	Lymph (LYMPH)	227008	SCM
+Lymphocyte Count	Lymphocytes PAH Results	228598	SCM
+Lymphocyte Count	Lymph Auto	165596	DMEE
+Lymphocyte Count	Lymph Auto	168741	DMEE
+Lymphocyte Count	Lymph Man	168734	DMEE
+Lymphocyte Count	Lymph Man	162147	DMEE
+Lymphocyte Count	CALCULATED LYMPHS	162015	DMEE
+Lymphocyte Count	# LYMPHS	165587	DMEE
+Lymphocyte Count	# LYMPHS	168732	DMEE
+Lymphocyte Count	Lymph Man	M-DIFF_Lymph Man	PS
+Lymphocyte Variant Count	LyVar Man	4858702	CERNER
+Lymphocyte Variant Count	C # ATYPICAL LYMPHOCYTES (MANUAL)	170955	EPIC
+Lymphocyte Variant Count	Lymph Var	228008	SCM
+Lymphocyte Variant Count	LyVar Man	162071	DMEE
+Lymphocyte Variant Count	LyVar Man	183056	DMEE
+Macrocytes	Macrocytes	4858704	CERNER
+Macrocytes	C MACROCYTES	159602	EPIC
+Macrocytes	Macrocytes	227096	SCM
+Macrocytes	Macrocyte	162122	DMEE
+Macrocytes	MACROCYTES	M-DIFF_MACROCYTES	PS
+Macrocytes	MACROCYTES	RBCMORF_MACROCYTES	PS
+Macrocytes	Macrocytes	M-DIFF_Macrocytes	PS
+Macrocytes	Macrocytes	RBCMORF_Macrocytes	PS
+Magnesium Level	Magnesium Level	4862705	CERNER
+Magnesium Level	MAGNESIUM	163095	EPIC
+Magnesium Level	MCODES_Magnesium Level HUP/PPMC	232539	SCM
+Magnesium Level	Magnesium Serum PAH	233660	SCM
+Magnesium Level	MAGNESIUM	161459	DMEE
+Magnesium Level	Magnesium	161533	DMEE
+Magnesium Level	Site Ven	161285	DMEE
+Magnesium Level	MAGNESIUM	MAG_MAGNESIUM	PS
+Magnesium Level	Magnesium	MAG_Magnesium	PS
+Magnesium Level	MAGNESIUM	CHEM16_MAGNESIUM	PS
+Magnesium Level	Magnesium	Chem11_Magnesium	PS
+Magnesium Level	MAGNESIUM	NTPN_MAGNESIUM	PS
+Mean Cell Hemoglobin	Mean Cell Hemoglobin	4856711	CERNER
+Mean Cell Hemoglobin	C MCH	159160	EPIC
+Mean Cell Hemoglobin	MCH RESULTS HUP/PMC	226099	SCM
+Mean Cell Hemoglobin	MCH PAH Result	228600	SCM
+Mean Cell Hemoglobin	MCH	886003	EPIC
+Mean Cell Hemoglobin	MCH	165509	DMEE
+Mean Cell Hemoglobin	MCH	168693	DMEE
+Mean Cell Hemoglobin	MCH	161992	DMEE
+Mean Cell Hemoglobin	MCH	165524	DMEE
+Mean Cell Hemoglobin	MCH	CBCAUTO_MCH	PS
+Mean Cell Hemoglobin	MCH	CBC PLT_MCH	PS
+Mean Cell Hemoglobin Concentration	Mean Cell Hemoglobin Concentration	4859711	CERNER
+Mean Cell Hemoglobin Concentration	C MCHC	170468	EPIC
+Mean Cell Hemoglobin Concentration	MCHC Result HUP/PMC	227099	SCM
+Mean Cell Hemoglobin Concentration	MCHC PAH Result	226601	SCM
+Mean Cell Hemoglobin Concentration	MCHC	879003	EPIC
+Mean Cell Hemoglobin Concentration	MCHC	161993	DMEE
+Mean Cell Hemoglobin Concentration	MCHC	165647	DMEE
+Mean Cell Hemoglobin Concentration	MCHC	168663	DMEE
+Mean Cell Hemoglobin Concentration	MCHC	165542	DMEE
+Mean Cell Hemoglobin Concentration	MCHC	CBCAUTO_MCHC	PS
+Mean Cell Hemoglobin Concentration	MCHC	CBC PLT_MCHC	PS
+Mean Cell Volume	Mean Cell Volume	4860712	CERNER
+Mean Cell Volume	C MCV	163023	EPIC
+Mean Cell Volume	MCV Result HUP/PMC	228099	SCM
+Mean Cell Volume	MCV PAH Result	227601	SCM
+Mean Cell Volume	MCV	882002	EPIC
+Mean Cell Volume	MCV	168647	DMEE
+Mean Cell Volume	MCV	165599	DMEE
+Mean Cell Volume	MCV	161981	DMEE
+Mean Cell Volume	MCV	168652	DMEE
+Mean Cell Volume	MCV	CBCAUTO_MCV	PS
+Mean Cell Volume	MCV	CBC PLT_MCV	PS
+Megakaryocyte	MCODES_Megakaryocyte  LIO	10787014	SCM
+Megakaryocyte	Megakaryocyte	10723007	CERNER
+Megakaryocyte	MEGAKARYOCYTE	11702023	EPIC
+Megakaryocyte	MEGAKARYOCYTE	10800010	EPIC
+Megakaryocyte	Megakaryocyte	WBCCORR_Megakaryocyte	PS
+Megakaryocyte	Megakaryocyte	M-DIFF_Megakaryocyte	PS
+Methemoglobinemia, Venous	MetHgb Venous	8837004	CERNER
+Methemoglobinemia, Venous	MCODES_MetHgb Venous Result	8854003	SCM
+Methemoglobinemia, Venous	C METHGB VENOUS	8868003	EPIC
+Methemoglobinemia, Venous	MetHgb Venous	ABL90 VEN_MetHgb Venous	PS
+Microcytes	Microcytes	4862726	CERNER
+Microcytes	C MICROCYTES	164349	EPIC
+Microcytes	Microcytes	226080	SCM
+Microcytes	Microcyte	165905	DMEE
+Microcytes	MICROCYTES	M-DIFF_MICROCYTES	PS
+Microcytes	MICROCYTES	RBCMORF_MICROCYTES	PS
+Microcytes	Microcytes	M-DIFF_Microcytes	PS
+Microcytes	Microcytes	RBCMORF_Microcytes	PS
+Monocyte Count	Absolute Monocyte Count	4855079	CERNER
+Monocyte Count	C # MONOCYTES (AUTO)	171903	EPIC
+Monocyte Count	Mono # PAH Result	227608	SCM
+Monocyte Count	C # MONOCYTES (MANUAL)	159619	EPIC
+Monocyte Count	Monocyte Manual	4862737	CERNER
+Monocyte Count	Mono (MONOS)	226010	SCM
+Monocyte Count	Monocytes PAH Results	226609	SCM
+Monocyte Count	Mono Auto	168688	DMEE
+Monocyte Count	Mono Auto	162079	DMEE
+Monocyte Count	Monocyte Man	168740	DMEE
+Monocyte Count	Monocyte Man	162154	DMEE
+Monocyte Count	Monocyte Man	M-DIFF_Monocyte Man	PS
+Mucus	Mucus	228170	SCM
+Mucus	C MUCUS	163071	EPIC
+Mucus	Mucus PAH	226614	SCM
+Neutrophil Count	Absolute Neutrophil Count	4856087	CERNER
+Neutrophil Count	C # NEUTROPHILS (AUTO)	160595	EPIC
+Neutrophil Count	Neutrophil # PAH Result	227617	SCM
+Neutrophil Count	Neutro Auto	168692	DMEE
+Neutrophil Count	Neutro Auto	168749	DMEE
+NT-proBNP	NT-proBNP	4861795	CERNER
+NT-proBNP	LEAN NT proBNP	420001	SCM
+NT-proBNP	C NT PROBNP	600001	EPIC
+NT-proBNP	NT-proBNP	PROBNP_NT-proBNP	PS
+Nucleated RBC	Nucleated RBC Manual	4860789	CERNER
+Nucleated RBC	Nucleated Red Blood Cells (NRBC)	227190	SCM
+Nucleated RBC	MCODES_Nucleated RBC PAH	226620	SCM
+Nucleated RBC	NRBC Man	165857	DMEE
+Nucleated RBC	NRBCs	242001	DMEE
+Ovalocytes	Ovalocytes	4858826	CERNER
+Ovalocytes	C OVALOCYTES	159603	EPIC
+Ovalocytes	Ovalocytes	228144	SCM
+Ovalocytes	Ovalocytes PAH	227621	SCM
+Ovalocytes	Ovalocyte	168795	DMEE
+Ovalocytes	OVALOCYTES	M-DIFF_OVALOCYTES	PS
+Ovalocytes	OVALOCYTES	RBCMORF_OVALOCYTES	PS
+Oxygen Saturation	O2 Sat Measured	6760006	CERNER
+Oxygen Saturation	MCODES_O2 Sat Measured Result	7438011	SCM
+Oxygen Saturation	O2 SAT MEASURED	9738004	EPIC
+Oxygen Saturation	C O2 SAT MEASURED	7461003	EPIC
+Oxygen Saturation	Oxygen Saturation PAH	230181	SCM
+Oxygen Saturation	C O2 SAT	6937005	EPIC
+Oxygen Saturation	Calculated O2 Saturation	226294	SCM
+Oxygen Saturation	O2SAT CALC	161220	DMEE
+Oxygen Saturation	O2SAT CALC	169923	DMEE
+Oxygen Saturation	O2 Sat Measured	GEM4000 COOX_O2 Sat Measured	PS
+Oxygen Saturation	O2 Sat Measured	COOX RALS PAH_O2 Sat Measured	PS
+Oxygen Saturation, Arterial	MCODES_O2 Sat Meas Art Result	227100	SCM
+Oxygen Saturation, Arterial	O2Sat Measured Arterial	4860802	CERNER
+Oxygen Saturation, Arterial	MEASURED O2 SAT ART	159801	EPIC
+Oxygen Saturation, Arterial	O2Sat Meas Art	160893	DMEE
+Oxygen Saturation, Arterial	O2 Sat Measured	GEM4ART_O2 Sat Measured	PS
+Oxygen Saturation, Arterial	O2Sat Meas Art	ABL90 ART_O2Sat Meas Art	PS
+Oxygen Saturation, Arterial	O2Sat Meas Art	NVABG_O2Sat Meas Art	PS
+Oxygen Saturation, Arterial	O2Sat Meas Art	VABG_O2Sat Meas Art	PS
+Oxygen Saturation, Venous	Oxygen Saturation Venous	4858800	CERNER
+Oxygen Saturation, Venous	O2 Sat Ven Result 0500832	228100	SCM
+Oxygen Saturation, Venous	MEASURED O2 SAT VEN	165174	EPIC
+Oxygen Saturation, Venous	O2 Sat Ven	160949	DMEE
+Oxygen Saturation, Venous	O2 Sat Measured	GEM4VEN_O2 Sat Measured	PS
+Oxygen Saturation, Venous	O2 Sat Ven	ABL90 VEN_O2 Sat Ven	PS
+Oxygen Saturation, Venous	O2 Sat Ven	VBG_O2 Sat Ven	PS
+Oxygen Saturation, Venous	O2 Sat Ven	_Abg/Lytes Rals Venous_O2 Sat Ven	PS
+Oxygen Saturation, Venous	O2 Sat Ven	_ABG Rals Venous PAH_O2 Sat Ven	PS
+Oxyhemoglobin, Venous	O2Hb Venous	8836004	CERNER
+Oxyhemoglobin, Venous	MCODES_O2 Hb Venous Result	8853005	SCM
+Oxyhemoglobin, Venous	C O2HB VENOUS	8870004	EPIC
+Oxyhemoglobin, Venous	O2Hb Venous	ABL90 VEN_O2Hb Venous	PS
+Partial Pressure of Carbon Dioxide, Arterial	P CO2 Arterial	4860866	CERNER
+Partial Pressure of Carbon Dioxide, Arterial	pCO2 Art Result	227846	SCM
+Partial Pressure of Carbon Dioxide, Arterial	PCO2 ART	171922	EPIC
+Partial Pressure of Carbon Dioxide, Arterial	pCO2 Art	183114	DMEE
+Partial Pressure of Carbon Dioxide, Arterial	pCO2 Art	167921	DMEE
+Partial Pressure of Carbon Dioxide, Arterial	pCO2 Art (T)	172634	DMEE
+Partial Pressure of Carbon Dioxide, Arterial	pCO2 Art	ABL90 ART_pCO2 Art	PS
+Partial Pressure of Carbon Dioxide, Arterial	pCO2 Art	NVABG_pCO2 Art	PS
+Partial Pressure of Carbon Dioxide, Arterial	pCO2 Art	GEM4ART_pCO2 Art	PS
+Partial Pressure of Carbon Dioxide, Arterial	pCO2 Art	_ABG/Lytes Rals PAH_pCO2 Art	PS
+Partial Pressure of Carbon Dioxide, Arterial	pCO2 Art	VABG_pCO2 Art	PS
+Partial Pressure of Carbon Dioxide, Arterial	pCO2 Art	_ABG Rals PAH_pCO2 Art	PS
+Partial Pressure of Carbon Dioxide, Venous	P CO2 Venous	4859867	CERNER
+Partial Pressure of Carbon Dioxide, Venous	pCO2 Ven	227848	SCM
+Partial Pressure of Carbon Dioxide, Venous	C P CO2 VENOUS	1298001	EPIC
+Partial Pressure of Carbon Dioxide, Venous	pCO2 Venous PAH	237103	SCM
+Partial Pressure of Carbon Dioxide, Venous	C PCO2 VENOUS	6932006	EPIC
+Partial Pressure of Carbon Dioxide, Venous	PCO2 VEN	171932	EPIC
+Partial Pressure of Carbon Dioxide, Venous	pCO2 Ven	187112	DMEE
+Partial Pressure of Carbon Dioxide, Venous	pCO2 Ven	ABL90 VEN_pCO2 Ven	PS
+Partial Pressure of Carbon Dioxide, Venous	pCO2 Ven	VBG_pCO2 Ven	PS
+Partial Pressure of Carbon Dioxide, Venous	pCO2 Ven	_Abg/Lytes Rals Venous_pCO2 Ven	PS
+Partial Pressure of Carbon Dioxide, Venous	pCO2 Ven	GEM4VEN_pCO2 Ven	PS
+Partial Pressure of Carbon Dioxide, Venous	pCO2 Ven	_ABG Rals Venous PAH_pCO2 Ven	PS
+Partial Pressure of Oxygen, Arterial	P O2 Arterial	4858908	CERNER
+Partial Pressure of Oxygen, Arterial	pO2 Art Result	228846	SCM
+Partial Pressure of Oxygen, Arterial	PO2 ART	160614	EPIC
+Partial Pressure of Oxygen, Arterial	pO2 Art	187130	DMEE
+Partial Pressure of Oxygen, Arterial	pO2 Art	ABL90 ART_pO2 Art	PS
+Partial Pressure of Oxygen, Arterial	pO2 Art	NVABG_pO2 Art	PS
+Partial Pressure of Oxygen, Arterial	pO2 Art	GEM4ART_pO2 Art	PS
+Partial Pressure of Oxygen, Arterial	pO2 Art	_ABG/Lytes Rals PAH_pO2 Art	PS
+Partial Pressure of Oxygen, Arterial	pO2 Art	VABG_pO2 Art	PS
+Partial Pressure of Oxygen, Arterial	pO2 Art	_ABG Rals PAH_pO2 Art	PS
+Partial Pressure of Oxygen, Venous	P O2 Venous	4861909	CERNER
+Partial Pressure of Oxygen, Venous	pO2 Ven Results	228848	SCM
+Partial Pressure of Oxygen, Venous	C PO2 VEN	167098	EPIC
+Partial Pressure of Oxygen, Venous	PO2 Venous PAH	239520	SCM
+Partial Pressure of Oxygen, Venous	C PO2 VENOUS	6931005	EPIC
+Partial Pressure of Oxygen, Venous	pO2 Ven	179134	DMEE
+Partial Pressure of Oxygen, Venous	pO2 Ven	ABL90 VEN_pO2 Ven	PS
+Partial Pressure of Oxygen, Venous	pO2 Ven	VBG_pO2 Ven	PS
+Partial Pressure of Oxygen, Venous	pO2 Ven	_Abg/Lytes Rals Venous_pO2 Ven	PS
+Partial Pressure of Oxygen, Venous	pO2 Ven	GEM4VEN_pO2 Ven	PS
+Partial Pressure of Oxygen, Venous	pO2 Ven	_ABG Rals Venous PAH_pO2 Ven	PS
+Partial Thromboplastin Time	Partial Thromboplastin Time	4855955	CERNER
+Partial Thromboplastin Time	C PTT (ACTIVATED PARTIAL THROMBOPLASTIN TIME)	170654	EPIC
+Partial Thromboplastin Time	MCODES_APTT	237166	SCM
+Partial Thromboplastin Time	MCODES_PTT (ActivPartThromboplasTime)PAH	234184	SCM
+Partial Thromboplastin Time	PTT	162482	DMEE
+Partial Thromboplastin Time	PTT	166597	DMEE
+Partial Thromboplastin Time	PTT	PTPTT_PTT	PS
+Partial Thromboplastin Time	PTT	PTT_PTT	PS
+Partial Thromboplastin Time	PTT	_SPCPTT_PTT	PS
+pH	C PH	171095	EPIC
+pH, Arterial	pH Arterial	4858888	CERNER
+pH, Arterial	pH Art Results	226877	SCM
+pH, Arterial	PH ART	167076	EPIC
+pH, Arterial	pH Art	183118	DMEE
+pH, Arterial	pH Art	ABL90 ART_pH Art	PS
+pH, Arterial	pH Art	NVABG_pH Art	PS
+pH, Arterial	pH Art	GEM4ART_pH Art	PS
+pH, Arterial	pH Art	_ABG/Lytes Rals PAH_pH Art	PS
+pH, Arterial	pH Art	VABG_pH Art	PS
+pH, Arterial	pH Art	_ABG Rals PAH_pH Art	PS
+pH, Venous	pH Venous	4862894	CERNER
+pH, Venous	C PH VENOUS	6936007	EPIC
+pH, Venous	pH Ven	164336	DMEE
+pH, Venous	pH Ven	ABL90 VEN_pH Ven	PS
+pH, Venous	pH Ven	VBG_pH Ven	PS
+pH, Venous	pH Ven	_Abg/Lytes Rals Venous_pH Ven	PS
+pH, Venous	pH Ven	GEM4VEN_pH Ven	PS
+pH, Venous	pH Ven	_ABG Rals Venous PAH_pH Ven	PS
+Phosphorus Level	Phosphorus Level	4862893	CERNER
+Phosphorus Level	C PHOSPHATE	159183	EPIC
+Phosphorus Level	MCODES_Phosphorus Level HUP/PPMC	230921	SCM
+Phosphorus Level	Phosphorus, Serum PAH	237104	SCM
+Phosphorus Level	Phosphorus	163916	DMEE
+Phosphorus Level	Phosphorus	168462	DMEE
+Phosphorus Level	Phosphorus	PHOS_Phosphorus	PS
+Phosphorus Level	Phosphorus	CHEM16_Phosphorus	PS
+Phosphorus Level	Phosphorus	Chem11_Phosphorus	PS
+Phosphorus Level	Phosphorus	NTPN_Phosphorus	PS
+Platelet Count	Platelet	4857899	CERNER
+Platelet Count	C PLATELETS	163026	EPIC
+Platelet Count	MCODES_PlateletCount(PLT)Result HUP/PMC	228116	SCM
+Platelet Count	Platelet   Count PAH	231501	SCM
+Platelet Count	MCODES_Platelet  Count Result	227630	SCM
+Platelet Count	Platelet Count	4860902	CERNER
+Platelet Count	Platelet Count (SPLT)	226117	SCM
+Platelet Count	PLATELETS	883003	EPIC
+Platelet Count	Platelet	162013	DMEE
+Platelet Count	Platelet	162052	DMEE
+Platelet Count	PLATELET COUNT	168673	DMEE
+Platelet Count	PLATELET COUNT	165584	DMEE
+Platelet Count	Platelet	CBCAUTO_Platelet	PS
+Platelet Count	Platelet	CBC PLT_Platelet	PS
+Platelet Estimate	PLT Estimate	4861902	CERNER
+Platelet Estimate	C PLATELET ESTIMATE (MANUAL)	159170	EPIC
+Platelet Estimate	Platelet Estimate	226135	SCM
+Platelet Estimate	Platelet Estimate PAH	226631	SCM
+Platelet Estimate	PLT Est	162096	DMEE
+Platelet Estimate	PLT Est	166473	DMEE
+Platelet Estimate	PLT Est	M-DIFF_PLT Est	PS
+Platelet Estimate	PLT Est	PLT-SCR_PLT Est	PS
+Polychromasia	Polychromasia	4858910	CERNER
+Polychromasia	C POLYCHROMASIA	159601	EPIC
+Polychromasia	Polychromasia	226150	SCM
+Polychromasia	Polychro	168783	DMEE
+Polychromasia	Polychro	M-DIFF_Polychro	PS
+Polychromasia	Polychro	RBCMORF_Polychro	PS
+Potassium Level	Potassium Level	4855917	CERNER
+Potassium Level	C POTASSIUM	159166	EPIC
+Potassium Level	MCODES_Potassium Level HHUP/PPMC	231971	SCM
+Potassium Level	Potassium, Serum PAH	233182	SCM
+Potassium Level	Potassium PAH	226634	SCM
+Potassium Level	Potassium Lvl	168505	DMEE
+Potassium Level	Potassium Lvl	161396	DMEE
+Potassium Level	Potassium Lvl	168465	DMEE
+Potassium Level	POTASSIUM	163724	DMEE
+Potassium Level	POTASSIUM	163730	DMEE
+Potassium Level	Potassium Lvl	BMP_Potassium Lvl	PS
+Potassium Level	Potassium Lvl	ABL90 VEN_Potassium Lvl	PS
+Potassium Level	Potassium Lvl	CMP_Potassium Lvl	PS
+Potassium Level	Potassium Lvl	NAK_Potassium Lvl	PS
+Potassium Level	Potassium Lvl	GEM4VEN_Potassium Lvl	PS
+Potassium Level	Potassium Lvl	K_Potassium Lvl	PS
+Potassium Level	Potassium Lvl	GEM4ART_Potassium Lvl	PS
+Potassium Level	Potassium Lvl	CHEM16_Potassium Lvl	PS
+Potassium Level	Potassium Lvl	Chem11_Potassium Lvl	PS
+Potassium Level	Potassium Lvl	NTPN_Potassium Lvl	PS
+Potassium Level	Potassium Lvl	Lytes_Potassium Lvl	PS
+Protein Total	Protein Total	4866199	CERNER
+Protein Total	C PROTEIN, TOTAL	170469	EPIC
+Protein Total	MCODES_Total Protein HUP/PPMC	229969	SCM
+Protein Total	Protein Total Serum PAH	233183	SCM
+Protein Total	Protein Total	164951	DMEE
+Protein Total	Protein Total	168158	DMEE
+Protein Total	Protein Total	HEPPNL_Protein Total	PS
+Protein Total	Protein Total	LIVEREV_Protein Total	PS
+Protein Total	Protein Total	CMP_Protein Total	PS
+Protein Total	Protein Total	TP_Protein Total	PS
+Protein Total	Protein Total	Liver Evaluation Profile (A/G Ratio, ALB, ALP, ALT_Protein Total	PS
+Protein Total	Protein Total	NTPN_Protein Total	PS
+Prothrombin Time	Prothrombin Time	4855947	CERNER
+Prothrombin Time	C PT (PROTHROMBIN TIME)	159226	EPIC
+Prothrombin Time	MCODES_Prothrombin Time	228159	SCM
+Prothrombin Time	MCODES_PT (Prothrombin Time) PAH	239719	SCM
+Prothrombin Time	PT	162475	DMEE
+Prothrombin Time	PT	162372	DMEE
+Prothrombin Time	PT	PTPTT_PT	PS
+Prothrombin Time	PT	PT_PT	PS
+Prothrombin Time	PT	_SPCPT_PT	PS
+RBC Morphology	RBC Morphology	4857967	CERNER
+RBC Morphology	C RBC MORPHOLOGY	170908	EPIC
+RBC Morphology	Red Blood Cell Morphology	226470	SCM
+RBC Morphology	RBC Morph	168773	DMEE
+RBC Morphology	RBC Morph	162126	DMEE
+RBC Morphology	RBC Morph	M-DIFF_RBC Morph	PS
+RBC Morphology	RBC Morph	RBCMORF_RBC Morph	PS
+Red Blood Cell	Red Blood Cell	4855967	CERNER
+Red Blood Cell	C RED BLOOD CELLS	163020	EPIC
+Red Blood Cell	RBC Result HUP/PMC	226165	SCM
+Red Blood Cell	RBC Count PAH ***LIO***	235523	SCM
+Red Blood Cell	Red Blood Cells PAH	227639	SCM
+Red Blood Cell	RED BLOOD CELLS	884002	EPIC
+Red Blood Cell	RBC	161947	DMEE
+Red Blood Cell	RBC	161967	DMEE
+Red Blood Cell	RBC	168618	DMEE
+Red Blood Cell	RBC	161952	DMEE
+Red Blood Cell	RBC	CBCAUTO_RBC	PS
+Red Blood Cell	RBC	CBC PLT_RBC	PS
+Red Cell Distribution Width	Red Cell Distribution Width	4861969	CERNER
+Red Cell Distribution Width	C RDW	159161	EPIC
+Red Cell Distribution Width	Red Cell Distribution Result HUP/PMC	226469	SCM
+Red Cell Distribution Width	RDW PAH Result	227638	SCM
+Red Cell Distribution Width	RDW	880003	EPIC
+Red Cell Distribution Width	RDW	165566	DMEE
+Red Cell Distribution Width	RDW	162047	DMEE
+Red Cell Distribution Width	RED CELL DISTRIBUTION	168670	DMEE
+Red Cell Distribution Width	RED CELL DISTRIBUTION	168672	DMEE
+Red Cell Distribution Width	RED CELL DISTRIBUTIO	165560	DMEE
+Red Cell Distribution Width	RDW	CBCAUTO_RDW	PS
+Red Cell Distribution Width	RDW	CBC PLT_RDW	PS
+Segmented Neutrophil Count	Segmented Neutrophils Manual	4863028	CERNER
+Segmented Neutrophil Count	C # SEGMENTED NEUTROPHILS (MANUAL)	159777	EPIC
+Segmented Neutrophil Count	Segmented Neutrophils PAH Results	227644	SCM
+Segmented Neutrophil Count	Segs Man	165731	DMEE
+Segmented Neutrophil Count	Segs Man	162135	DMEE
+Segmented Neutrophil Count	Seg Abs	M-DIFF_Seg Abs	PS
+Sodium Level	Sodium Level	4867119	CERNER
+Sodium Level	C SODIUM	163041	EPIC
+Sodium Level	MCODES_Sodium Level HUP/PPMC	234918	SCM
+Sodium Level	Sodium, Serum PAH	234187	SCM
+Sodium Level	Sodium PAH	228648	SCM
+Sodium Level	SODIUM	772007	EPIC
+Sodium Level	Sodium  PAH	227648	SCM
+Sodium Level	Sodium Level	161377	DMEE
+Sodium Level	Sodium Level	168473	DMEE
+Sodium Level	SODIUM	161373	DMEE
+Sodium Level	SODIUM	163673	DMEE
+Sodium Level	Sodium Level	BMP_Sodium Level	PS
+Sodium Level	Sodium Level	ABL90 VEN_Sodium Level	PS
+Sodium Level	Sodium Level	CMP_Sodium Level	PS
+Sodium Level	Sodium Level	NAK_Sodium Level	PS
+Sodium Level	Sodium Level	GEM4VEN_Sodium Level	PS
+Sodium Level	Sodium Level	CHEM16_Sodium Level	PS
+Sodium Level	Sodium Level	Chem11_Sodium Level	PS
+Sodium Level	Sodium Level	NTPN_Sodium Level	PS
+Sodium Level	Sodium Level	NA_Sodium Level	PS
+Sodium Level	Sodium Level	Lytes_Sodium Level	PS
+Sodium Level, Arterial	MCODES_Sodium Art Result	8853008	SCM
+Sodium Level, Arterial	Sodium Art	8829004	CERNER
+Sodium Level, Arterial	C SODIUM ART	8841004	EPIC
+Sodium Level, Arterial	Sodium Art	ABL90 ART_Sodium Art	PS
+Sodium Level, Arterial	Sodium Level	GEM4ART_Sodium Level	PS
+Squamous Epithelial	Squamous Epithelial	228449	SCM
+Squamous Epithelial	C SQUAMOUS EPITHELIAL	159795	EPIC
+Squamous Epithelial	Squamous Epithelial Cells PAH	228650	SCM
+Temp	Patient Temperature	4858955	CERNER
+Temp	MCODES_Patient Temp Result	226624	SCM
+Temp	Body Temperature (ISTAT) 0500075	227322	SCM
+Temp	PATIENT TEMPERATURE	5210002	EPIC
+Temp	Body Temperature	4861178	CERNER
+Temp	C BODY TEMPERATURE	1411002	EPIC
+Temp	Body Temperature	4855178	CERNER
+Temp	Body Temp	GEM4VEN_Body Temp	PS
+Temp	Body Temp	GEM4ART_Body Temp	PS
+Temp	Body Temp	GEM4000 COOX_Body Temp	PS
+Temp	PT TEMP	POC Lactate PAH_PT TEMP	PS
+Temp	PT TEMP	_Abg/Lytes Rals Venous_PT TEMP	PS
+Temp	PT TEMP	_ABG Rals Venous PAH_PT TEMP	PS
+Temp	PT TEMP	_ABG/Lytes Rals PAH_PT TEMP	PS
+Temp	PT TEMP	_ABG Rals PAH_PT TEMP	PS
+Temp	Temp Art	ABL90 ART_Temp Art	PS
+Temp, Arterial	Temp Art	8827003	CERNER
+Temp, Arterial	MCODES_Temp Art Result	8852004	SCM
+Temp, Arterial	C TEMP ART	8842003	EPIC
+Thryoid Stimulating Hormone	Thryoid Stimulating Hormone	4863222	CERNER
+Thryoid Stimulating Hormone	C THYROID STIMULATING HORMONE	159352	EPIC
+Thryoid Stimulating Hormone	LEAN Thyroid Stimulating Hormone	234232	SCM
+Total Carbon Dioxide	TCO2	4870173	CERNER
+Total Carbon Dioxide	TCO2	GEM4VEN_TCO2	PS
+Triglycerides	TRIGLYCERIDES	LIPID_TRIGLYCERIDES	PS
+Triglycerides	TRIGLYCERIDES	TRIG_TRIGLYCERIDES	PS
+Triglycerides	TRIGLYCERIDES	LIPrDLDL_TRIGLYCERIDES	PS
+Triglycerides	TRIGLYCERIDES	CHEM16_TRIGLYCERIDES	PS
+Triglycerides	TRIGLYCERIDES	NTPN_TRIGLYCERIDES	PS
+Troponin-I Point of Care	Troponin-I Point of Care	6744004	CERNER
+Troponin-I Point of Care	MCODES_Troponin-I POC Result HUP	6870004	SCM
+Troponin-I Point of Care	C TROPONIN-I POC	6881003	EPIC
+Troponin-I Point of Care	Troponin-I	4864219	CERNER
+Troponin-I Point of Care	LEAN Troponin-I	239123	SCM
+Troponin-I Point of Care	TROPONIN-I	164210	DMEE
+Troponin-I Point of Care	Troponin Ultra	4866193	CERNER
+Troponin-I Point of Care	Troponin Ultra PAH	233215	SCM
+Troponin-T	MCODES_Troponin T	418002	SCM
+Troponin-T	Troponin-T	4865219	CERNER
+Troponin-T	C TROPONIN T	599001	EPIC
+Troponin-T	Troponin-T	551015	DMEE
+Troponin-T	Troponin-T	TROPT_Troponin-T	PS
+TSH	TSH	TSH_TSH	PS
+TSH	TSH	TSHrFT4_TSH	PS
+Urine Appearance	Urine Appearance	4866238	CERNER
+Urine Appearance	C UA APPEARANCE	170483	EPIC
+Urine Appearance	Appearance PAH	228525	SCM
+Urine Appearance	UA Appear	166217	DMEE
+Urine Appearance	UA Appear	169293	DMEE
+Urine Appearance	UA Spec Grav	169300	DMEE
+Urine Appearance	UA Appear	POC UA DIP_UA Appear	PS
+Urine Appearance	UA Appear	UA DIP_UA Appear	PS
+Urine Bacteria	Urine Bacteria	4867239	CERNER
+Urine Bacteria	UA Bacteria	168893	DMEE
+Urine Bacteria	UA Bacteria	167131	DMEE
+Urine Bacteria	UA Bacteria	UA MICR_UA Bacteria	PS
+Urine Bilirubin	Urine Bilirubin	4868238	CERNER
+Urine Bilirubin	UA Bilirubin	228426	SCM
+Urine Bilirubin	C UA BILIRUBIN	170479	EPIC
+Urine Bilirubin	Bilirubin PAH	228535	SCM
+Urine Bilirubin	UA Bili	166172	DMEE
+Urine Bilirubin	UA Bili	169289	DMEE
+Urine Bilirubin	UA Bili	POC UA DIP_UA Bili	PS
+Urine Bilirubin	UA Bili	UA DIP_UA Bili	PS
+Urine Blood	Urine Blood	4870238	CERNER
+Urine Blood	UA Blood	226454	SCM
+Urine Blood	C UA BLOOD	163062	EPIC
+Urine Blood	UA BLOOD	637004	EPIC
+Urine Blood	Blood PAH	228537	SCM
+Urine Blood	UA BLOOD	168879	DMEE
+Urine Blood	UA Blood	169301	DMEE
+Urine Blood	UA BLOOD	POC UA DIP_UA BLOOD	PS
+Urine Blood	UA BLOOD	UA DIP_UA BLOOD	PS
+Urine Blood	UA Blood	POC UA DIP_UA Blood	PS
+Urine Blood	UA Blood	UA DIP_UA Blood	PS
+Urine Color	Urine Color	4866239	CERNER
+Urine Color	UA Color	227454	SCM
+Urine Color	C UA COLOR	159175	EPIC
+Urine Color	Color PAH	226556	SCM
+Urine Color	UA COLOR	166211	DMEE
+Urine Color	UA Color	169292	DMEE
+Urine Color	UA COLOR	POC UA DIP_UA COLOR	PS
+Urine Color	UA COLOR	UA DIP_UA COLOR	PS
+Urine Color	UA Color	POC UA DIP_UA Color	PS
+Urine Color	UA Color	UA DIP_UA Color	PS
+Urine Glucose	Urine Glucose	4864240	CERNER
+Urine Glucose	UA Glucose (Dipstick)	228454	SCM
+Urine Glucose	C UA GLUCOSE	159171	EPIC
+Urine Glucose	UA GLUCOSE	638002	EPIC
+Urine Glucose	Glucose Qualitative PAH	228573	SCM
+Urine Glucose	UA Glucose	166169	DMEE
+Urine Glucose	UA Glucose	POC UA DIP_UA Glucose	PS
+Urine Glucose	UA Glucose	UA DIP_UA Glucose	PS
+Urine Human Chorionic Gonadotropin	URINE HCG	165012	EPIC
+Urine Ketones	Urine Ketones	4866240	CERNER
+Urine Ketones	UA Ketones (Dipstick)	226455	SCM
+Urine Ketones	C UA KETONES	163059	EPIC
+Urine Ketones	UA KETONES	639001	EPIC
+Urine Ketones	Ketones PAH	227589	SCM
+Urine Ketones	UA Ketones	166178	DMEE
+Urine Ketones	UA Ketones	169303	DMEE
+Urine Ketones	UA Ketones	POC UA DIP_UA Ketones	PS
+Urine Ketones	UA Ketones	UA DIP_UA Ketones	PS
+Urine Leukocyte Esterase	Urine Leukocyte Esterase	4870240	CERNER
+Urine Leukocyte Esterase	Leukocyte Esterase	227241	SCM
+Urine Leukocyte Esterase	C UA LEUKOCYTE ESTERASE	159174	EPIC
+Urine Leukocyte Esterase	UA LEUKOCYTE ESTERASE	639003	EPIC
+Urine Leukocyte Esterase	Leukocyte Esterase PAH	228595	SCM
+Urine Leukocyte Esterase	UA Leuk Est	168887	DMEE
+Urine Leukocyte Esterase	UA Leuk Est	169319	DMEE
+Urine Leukocyte Esterase	UA Leuk Est	POC UA DIP_UA Leuk Est	PS
+Urine Leukocyte Esterase	UA Leuk Est	UA DIP_UA Leuk Est	PS
+Urine Mucous	Urine Mucous	4866237	CERNER
+Urine Mucous	UA Mucous	166220	DMEE
+Urine Mucous	UA Mucous	167083	DMEE
+Urine Mucous	UA Mucous	UA MICR_UA Mucous	PS
+Urine Nitrite	Urine Nitrite	4868241	CERNER
+Urine Nitrite	Nitrite	226189	SCM
+Urine Nitrite	C UA NITRITE	170482	EPIC
+Urine Nitrite	UA NITRITE	638004	EPIC
+Urine Nitrite	Nitrite PAH	226618	SCM
+Urine Nitrite	UA Nitrite	168884	DMEE
+Urine Nitrite	UA Nitrite	167159	DMEE
+Urine Nitrite	UA Nitrite	POC UA DIP_UA Nitrite	PS
+Urine Nitrite	UA Nitrite	UA DIP_UA Nitrite	PS
+Urine pH	Urine pH	4870241	CERNER
+Urine pH	pH (UA)	226175	SCM
+Urine pH	C UA PH	159173	EPIC
+Urine pH	UA PH	637005	EPIC
+Urine pH	pH  PAH	226627	SCM
+Urine pH	UA pH	168881	DMEE
+Urine pH	UA pH	167115	DMEE
+Urine pH	UA Glucose	169290	DMEE
+Urine pH	UA pH	POC UA DIP_UA pH	PS
+Urine pH	UA pH	UA DIP_UA pH	PS
+Urine Protein	Urine Protein	4864242	CERNER
+Urine Protein	UA Protein (Dipstck)	227455	SCM
+Urine Protein	C UA PROTEIN	170481	EPIC
+Urine Protein	UA PROTEIN	637002	EPIC
+Urine Protein	Protein PAH	228636	SCM
+Urine Protein	UA Protein	162216	DMEE
+Urine Protein	UA Protein	169304	DMEE
+Urine Protein	UA Protein	POC UA DIP_UA Protein	PS
+Urine Protein	UA Protein	UA DIP_UA Protein	PS
+Urine RBC	Urine RBC	4865242	CERNER
+Urine RBC	C UA RBC	163077	EPIC
+Urine RBC	Red Blood Cells (UA)	227470	SCM
+Urine RBC	UA RBC	166238	DMEE
+Urine RBC	UA RBC	169306	DMEE
+Urine RBC	UA RBC	UA MICR_UA RBC	PS
+Urine Specific Gravity	Urine Specific Gravity	4864243	CERNER
+Urine Specific Gravity	Specific Gravity	226452	SCM
+Urine Specific Gravity	C UA SPECIFIC GRAVITY	159172	EPIC
+Urine Specific Gravity	Specific Gravity Urine PAH	234436	SCM
+Urine Specific Gravity	UA Spec Grav	166181	DMEE
+Urine Specific Gravity	UA Spec Grav	POC UA DIP_UA Spec Grav	PS
+Urine Specific Gravity	UA Spec Grav	UA DIP_UA Spec Grav	PS
+Urine Squamous Epithelial Cells	Urine Squamous Epithelial Cells	4868237	CERNER
+Urine Squamous Epithelial Cells	UA Sqm Epith Cells	166382	DMEE
+Urine Squamous Epithelial Cells	UA Sqm Epith Cells	167147	DMEE
+Urine Squamous Epithelial Cells	UA Sqm Epith Cells	UA MICR_UA Sqm Epith Cells	PS
+Urine Turbidity	Turbidity	226433	SCM
+Urine Urobilinogen	Urine Urobilinogen	4870243	CERNER
+Urine Urobilinogen	Urobilinogen	228467	SCM
+Urine Urobilinogen	C UA UROBILINOGEN	163065	EPIC
+Urine Urobilinogen	Urobilinogen PAH	227688	SCM
+Urine Urobilinogen	UA Urobilinogen	162219	DMEE
+Urine Urobilinogen	UA Urobilinogen	162621	DMEE
+Urine Urobilinogen	UA Urobilinogen	POC UA DIP_UA Urobilinogen	PS
+Urine Urobilinogen	UA Urobilinogen	UA DIP_UA Urobilinogen	PS
+Urine WBC	Urine WBC	4863244	CERNER
+Urine WBC	C UA WBC	170485	EPIC
+Urine WBC	UA White Blood Cells	228455	SCM
+Urine WBC	UA WBC	168896	DMEE
+Urine WBC	UA WBC	169305	DMEE
+Urine WBC	UA WBC	5150017	DMEE
+Urine WBC	UA WBC	UA MICR_UA WBC	PS
+White Blood Cell	White Blood Cell	4864303	CERNER
+White Blood Cell	C WHITE BLOOD CELLS	159158	EPIC
+White Blood Cell	WBC Result HUP/PMC	228429	SCM
+White Blood Cell	WBC Count PAH ***LIO***	229515	SCM
+White Blood Cell	White Blood Cells PAH	226693	SCM
+White Blood Cell	WBC Count PAH Result	228691	SCM
+White Blood Cell	WHITE BLOOD CELLS	794005	EPIC
+White Blood Cell	WBC	161934	DMEE
+White Blood Cell	WBC	161941	DMEE
+White Blood Cell	WBC	161940	DMEE
+White Blood Cell	WBC	166283	DMEE
+White Blood Cell	WBC	165362	DMEE
+White Blood Cell	WBC	168602	DMEE
+White Blood Cell	WBC	168606	DMEE
+White Blood Cell	WBC	165368	DMEE
+White Blood Cell	WHITE BLOOD CELL COU	168607	DMEE
+White Blood Cell	WBC	168601	DMEE
+White Blood Cell	WBC	168605	DMEE
+White Blood Cell	WBC	168912	DMEE
+White Blood Cell	WBC	165365	DMEE
+White Blood Cell	WBC	165353	DMEE
+White Blood Cell	WBC	161935	DMEE
+White Blood Cell	WBC	5147010	DMEE
+White Blood Cell	WBC	165356	DMEE
+White Blood Cell	WBC	161939	DMEE
+White Blood Cell	WBC	166505	DMEE
+White Blood Cell	WHITE BLOOD CELLS	166235	DMEE
+White Blood Cell	WBC	165350	DMEE
+White Blood Cell	WBC	CBCAUTO_WBC	PS
+White Blood Cell	WBC	CBC PLT_WBC	PS
+Whole Blood Glucose	Whole Blood Glucose	4865310	CERNER
+Whole Blood Glucose	LEAN Glucose (Whole Blood)	230378	SCM
+Whole Blood Glucose	C WHOLE BLOOD GLUCOSE	1407002	EPIC
+Whole Blood Glucose	Whole Bd Glu	160902	DMEE
+Whole Blood Glucose	Whole Bd Glu	ABL90 VEN_Whole Bd Glu	PS
+Whole Blood Glucose	Whole Bd Glu	GEM4VEN_Whole Bd Glu	PS
+Whole Blood Glucose	Whole Bd Glu	GEM4ART_Whole Bd Glu	PS
+Whole Blood Glucose	Whole Bd Glu	WBGL_Whole Bd Glu	PS

@@ -1,0 +1,64 @@
+version: "3.7"
+services:
+
+  mongo:
+    image: mongo:4.0.10
+    stop_signal: SIGINT
+    command: [--noauth, --smallfiles, --quiet]
+    ports:
+    - "27017:27017"
+    restart: always
+    volumes:
+    - ./data/db:/data/db
+
+  jupyter:
+    image: quay.io/pennsignals/alpine-3.8-python-3.7-jupyter:5.0
+    depends_on:
+    - mongo
+    environment:
+    - MONGO_URI=mongodb://mongo/test
+    expose:
+    - "8888"
+    ports:
+    - "8889:8888"
+    volumes:
+    - ./:/tmp
+    working_dir: /tmp
+    entrypoint: [/sbin/tini, --]
+    command: [jupyter, notebook, --notebook-dir=/tmp,  --ip=0.0.0.0, --port=8888, --no-browser, --allow-root]
+
+  predict:
+    build: .
+    depends_on:
+    - mongo
+    environment:
+    - CONFIGURATION=./local/predict_configuration.yml
+    - OUTPUT_URI=mongodb://mongo/test
+    - ELIXHAUSER=./local/elixhauser_map.tsv
+    - CHARLSON=./local/charlson_map.tsv
+    - ORDERS=./local/orders_map.tsv
+    - VITALS=./local/vitals_map.tsv
+    env_file: ./secrets/secrets.env
+    volumes:
+    - ./local:/tmp/local:ro
+    - ./model:/tmp/model:ro
+    - ./temporary_output:/tmp/temporary_output:rw
+    working_dir: /tmp
+    entrypoint: ["rids.predict"]  # see setup.py console_scripts
+
+  notify:
+    build: .
+    depends_on:
+    - mongo
+    environment:
+    - CONFIGURATION=./local/notify_configuration.yml
+    - ANTIBIOTICS_SNOMED=./local/snomedid_description.txt
+    - ANTIBIOTICS_SNOMED_NORM=./local/snomedid_description_norm_map.txt
+    - ANTIBIOTICS_BRAND_GENERIC=./local/brands_and_generic.csv
+    env_file: ./secrets/secrets.env
+    volumes:
+    - ./local:/tmp/local:ro
+    - ./temporary_output:/tmp/temporary_output:rw
+    working_dir: /tmp
+    entrypoint: ["rids.notify"]  # see setup.py console_scripts
+

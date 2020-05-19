@@ -1,0 +1,35 @@
+input:
+  vent:
+    collection:
+      clinstream_demographic_events: clinstream_demographic_events
+      signal_mar_events: signal_mar_events
+  predictions:
+    collection:
+      predictions: predictions
+      prediction_batches: prediction_batches
+      notification_batches: notification_batches
+      outstanding_twilio: outstanding_twilio
+      notifications: notifications
+      assignments: assignments
+  pennchartx:
+    user_name: pennchartx_DSSepsisAlert
+    client_id: SepsisAlert_Server
+    token_uri: https://uphsnet.uphs.upenn.edu/IdentityServerV4/connect/token
+    api_uri: https://secureapps.uphs.upenn.edu/PennChartX/api/v1/
+model:
+  notifications:
+    collection:
+      notifications: notifications
+      notification_batches: notification_batches
+      outstanding_twilio: outstanding_twilio
+      randomizations: randomizations
+      assignments: assignments
+      recipients_twilio: recipients_twilio
+  redcap:
+    api_uri: https://redcap.med.upenn.edu/api/
+output:
+  notificationLog:
+    collection:
+      notification_logs: notification_logs
+utc_offset: '-0500'
+

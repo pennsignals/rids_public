@@ -1,0 +1,29 @@
+[BASIC]
+good-names=ax,c,d,e,df,f,g,gb,gm,i,nc,ok,q,ts,td,v,vc,vn,x
+
+
+[MASTER]
+ignore=version.py
+
+
+[MESSAGES CONTROL]
+disable=duplicate-code
+
+[MISCELLANEOUS]
+# List of note tags to take in consideration, separated by a comma.
+notes=FIXME,XXX
+
+
+[SIMILARITIES]
+
+# Minimum lines number of a similarity.
+min-similarity-lines=4
+
+# Ignore comments when computing similarities.
+ignore-comments=yes
+
+# Ignore docstrings when computing similarities.
+ignore-docstrings=yes
+
+# Ignore imports when computing similarities.
+ignore-imports=yes

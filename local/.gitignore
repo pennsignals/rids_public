@@ -1,0 +1,14 @@
+*
+!.gitignore
+!.pylintrc
+!vitals_map.tsv
+!orders_map.tsv
+!brands_and_generic.csv
+!elixhauser_map.tsv
+!charlson_map.tsv
+!notify_configuration.yml
+!predict_configuration.yml
+!snomedid_description_norm_map.txt
+!snomedid_description.txt
+
+

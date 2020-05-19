@@ -1,0 +1,22 @@
+input:
+  clarity:
+    tables:
+    - pat_enc_hsp
+    - identity_id
+    - hsp_acct_dx_list
+    - clarity_edg
+  vent:
+    collection:
+      clinstream_demographic_events: clinstream_demographic_events
+      signal_flowsheet_events: signal_flowsheet_events
+  ps1:
+    collection:
+      lab_results: Labs_GetLabs
+output:
+  collection:
+    predictions: predictions
+    prediction_batches: prediction_batches
+    notifications: notifications
+    assignments: assignments
+model:
+  path: ./model/rids.1.2.pickle
